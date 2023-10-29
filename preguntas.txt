@@ -1,0 +1,9 @@
+facil
+Quién descubrió America?;Antonio Banderas;Cristóbal Colon;Diego Maradona;Gabriel Garcia Márquez;David Guetta;2
+Cuál es la edad mínima para ser diputado en Argentina?;18;21;25;32;3
+medio
+Quién inventó la lámpara eléctrica?;Edison;Tesla;Roentgen;Marconi;Da Vinci;1
+Quien "sabia que no sabia nada"?;Aristoteles;Ortega y Gasset;Socrates;Platon;3
+dificil
+En que lugar del cuerpo se produce la insulina?;En la hipofisis;En el pancreas;En el duodeno;2
+Que pais no tiene al euro como moneda?;Portugal;Suiza;Francia;Chipre;Malta;2
