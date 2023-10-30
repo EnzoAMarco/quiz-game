@@ -1,0 +1,40 @@
+Quién descubrió America?;Antonio Banderas;Cristóbal Colon;Diego Maradona;Gabriel Garcia Márquez;David Guetta;2
+Cuál es la edad mínima para ser diputado en Argentina?;18;21;25;32;3
+Quién inventó la lámpara eléctrica?;Edison;Tesla;Roentgen;Marconi;Da Vinci;1
+Quien "sabia que no sabia nada"?;Aristoteles;Ortega y Gasset;Socrates;Platon;3
+En que lugar del cuerpo se produce la insulina?;En la hipofisis;En el pancreas;En el duodeno;2
+Que pais no tiene al euro como moneda?;Portugal;Suiza;Francia;Chipre;Malta;2
+En cuantos estados pueden aparecer la materia?;1;2;3;4 o mas;4
+Que era el Concorde?;Un tren bala;Un transbordador espacial;Un avion supersonico;Un modulo lunar;3
+Que enfermedad se considera erradicada?;Peste;Viruela;Colera;Sifilis;Sarampion;2
+Quien escribio el Martin Fierro?;Martin Fierro;Jorge Luis Borges;Jose Hernandez;Miguel Cane;Autor anonimo;3
+Quien es culpable?;El imputado;El acusado;El procesado;El condenado;4
+En que no cree un budista?;En la reencarnacion;En el nirvana;En un dios;3
+Quien fue Atahualpa Yupanqui?;El ultimo rey inca;Un poeta argentino;Un conquistador;Un sacerdote;2
+Que papa convoco el Concilio Vaticano II?;Juan Pablo II;Benedicto XVI;Juan XXIII;Paulo VI;Pio XII;3
+A que edificio trepo King Kong?;A la Casa Blanca;Al Empire State;A la Torre Eiffel;A las Torres Gemelas;2
+Que significa la 'a' en la palabra sida?;Ampliada;Aceptada;Adquirida;Anonima;Autoinmune;3
+Cual es el pueblo imaginario descrito en Cien años de soledad?;Macondo;Vetusta;Catay;Metropolis;1
+De que empresario trata la pelicula La red social?;Bill Gates;Mark Zuckerberg;Steve Jobs;Mick Jagger;2
+Cual es el combustible utilizado en las centrales nucleares?;Uranio;Plutonio;Helio;Estroncio;Galio;1
+Que se coloca entre los numeros de una direccion IP?;Puntos;Doble barra;Guiones;Dos puntos;Espacios;1
+La obra Romeo y Julieta esta ambientada en;Londres;Teruel;Verona;Venecia;Sicilia;3
+Que lugar fue la sede de los Juegos Olimpicos de 1972?;Munich;Seul;Montral;Los Angeles;1
+Que emperador romano mando construir el Coliseo de Roma?;Neron;Tiberio;Julio Cesar;Vespaciano;4
+En que año tuvo lugar la batalla de Waterloo?;1743;1817;1812;1815;1792;4
+A que pais atraviesa el rio Tigris?;Pakistan;Iran;Siria;Turquia;Irak;5
+Cual es la velocidad maxima en autopistas argentinas?;80;100;120;130;Sin limite;4
+Como se reproducen los Pitufos?;Por mitosis;Por huevos;Nace uno en cada luna llena azul;Nadie lo sabe;3
+A que pais pertenece la isla de Tasmania?;Estados Unidos;Australia;Portugal;Corea del Sur;Ninguna de las anteriores;2
+Que es la UA?;Union Austrohungara;Union Africana;Union Americana;Union Afroamericana;2
+Cuantas finales del mundo jugo la Seleccion Argentina de futbol?;5;6;4;3;2
+De donde de obtiene la sacarina?;Del aceite de girasol;Del azucar;Del carbon;Del azufre;3
+Cuantas caras tiene un icosaedro?;20;16;8;24;1
+Cual es el simbolo quimico del Sodio?;Mn;Li;Au;Sr;Na;5
+Cuantos jugadores componen un equipo de rugby?;11;12;15;21;3
+Que seleccion acumula mayor cantidad de expulsados en  mundiales de futbol?;Argentina;Brasil;Italia;Camerun;1
+Como se llamaba el personaje que interpretaba John Travolta en "Grease"?;Danny Pujo;Danny Zuko;Danny Grease;Danny Chulo;2
+Cuantos premios Grammy ha ganado Britney Spears?;Uno;Dos;Tres;Cuatro;Ninguno;1
+Cual es considerado por los fanáticoss el peor juego de la historia de ATARI?;Tetris;Asteroids;Combat;ET;Galaxian;4
+Cuantos colores tiene un cubo de Rubik clasico?;4;6;8;9;2
+Cual es la nacionalidad de la cantante Shakira?;Colombiana;Venezolana;Ecuatoriana;Peruana;1
