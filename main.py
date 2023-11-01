@@ -32,4 +32,24 @@ def paso3(preguntasLista):
   
   return data_puntuacion
 
-print(paso3(preguntas))
+# print(paso3(preguntas))
+
+def paso8(lista, direA1):
+    
+  try:
+    a1 = open(direA1,'at')
+    a1.writelines(lista)
+    
+  except FileNotFoundError as md:
+    print(md)
+
+  except OSError as md:
+    print('error so', md)
+      
+  finally:   
+    try:
+      a1.close()
+
+    except NameError as md:
+      print(md)
+      pass
