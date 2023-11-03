@@ -36,10 +36,9 @@ def paso3(preguntasLista):
 
 def paso7(datos):
 
-  ordenado = sorted(datos , key=lambda x: x[2], reverse=True)
-  print('\n'.join([' '.join(map(str, fila)) for fila in ordenado]))
+  print('\n'.join([' '.join(map(str, fila)) for fila in sorted(datos , key=lambda x: x[2], reverse=True)]))
 
-# paso7([['owo','m',3],['uwu','h',5],['awa','f',1]])
+paso7([['owo','m',3],['uwu','h',5],['awa','f',1]])
 
 def paso8(lista, direA1):
     
