@@ -13,7 +13,7 @@ def paso1():
 def paso2(dificultad):
 
   try:
-    preg=open(r'quiz-game\preguntas.txt','rt')
+    preg=open(r'preguntas.txt','rt')
 
 
     if dificultad=='f':
@@ -38,6 +38,9 @@ def paso2(dificultad):
           conjunto_preg.add(linea)
 
     return conjunto_preg
+  
+  except FileNotFoundError as md:
+    print(md)
 
   except OSError as mensaje:
       print('No se pudo grabar el archivo:', mensaje)
