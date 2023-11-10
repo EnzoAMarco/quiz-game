@@ -1,0 +1,5 @@
+'nick: ren1, dificultad: f, correctas: 4, tiempo: 2'
+'nick: ren2, dificultad: m, correctas: 5, tiempo: 4'
+'nick: ren3, dificultad: d, correctas: 6, tiempo: 6'
+'nick: ren4, dificultad: f, correctas: 7, tiempo: 8'
+
