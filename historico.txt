@@ -1,5 +1,5 @@
-'nick: ren1, dificultad: f, correctas: 4, tiempo: 2'
-'nick: ren2, dificultad: m, correctas: 5, tiempo: 4'
-'nick: ren3, dificultad: d, correctas: 6, tiempo: 6'
-'nick: ren4, dificultad: f, correctas: 7, tiempo: 8'
-
+abc;m;0;30
+kkj;d;1;8
+kkk;d;0;3
+aaa;f;0;1
+fff;f;0;1

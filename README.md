@@ -9,4 +9,10 @@
 # 5_termina de ejecutar el programa y se informan todos los participantes de la sesion ordenados segun el puntaje obtenido
 # 6_estos se archivaran en un archivo participantes.txt
 
-paso 2 if = m pero paso 1 es n dificultad
+<!-- paso 2 if = m pero paso 1 es n dificultad -->
+
+# verificar el numero de respuestas del participante
+# limitar caracteres del nick name
+# q se lindo el output
+# agregar recursividad
+
