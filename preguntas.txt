@@ -1,3 +1,540 @@
+¿Cuál es la capital de Francia?;Londres;Roma;Madrid;París;Berlín;4
+¿Quién escribió "El principito"?;Julio Cortázar;Gabriel García Márquez;Antoine de Saint-Exupéry;Jorge Luis Borges;Mario Vargas Llosa;3
+¿Qué país tiene forma de bota?;México;Italia;España;Francia;Brasil;2
+¿Quién pintó la Mona Lisa?;Pablo Picasso;Vincent Van Gogh;Leonardo da Vinci;Salvador Dalí;Claude Monet;3
+¿Cuál es el río más largo del mundo?;Nilo;Amazonas;Yangtsé;Misisipi;Ganges;2
+¿Cuál es el animal terrestre más grande?;Elefante;Jirafa;Rinoceronte;Hipopótamo;Oso polar;1
+¿Cuál es el planeta más grande del sistema solar?;Marte;Júpiter;Venus;Saturno;Mercurio;2
+¿Quién escribió "Don Quijote de la Mancha"?;Miguel de Cervantes;Garcilaso de la Vega;Federico García Lorca;Gustavo Adolfo Bécquer;Lope de Vega;1
+¿Cuál es el metal más abundante en la corteza terrestre?;Plomo;Hierro;Oro;Aluminio;Cobre;4
+¿En qué año comenzó la Primera Guerra Mundial?;1914;1918;1925;1905;1939;1
+¿Quién escribió "Romeo y Julieta"?;William Shakespeare;Charles Dickens;Jane Austen;Oscar Wilde;Emily Brontë;1
+¿Cuál es el océano más grande del mundo?;Océano Índico;Océano Atlántico;Océano Pacífico;Océano Antártico;Océano Ártico;3
+¿Cuál es el país más poblado del mundo?;India;Estados Unidos;China;Rusia;Brasil;3
+¿Quién pintó "La noche estrellada"?;Leonardo da Vinci;Pablo Picasso;Vincent Van Gogh;Salvador Dalí;Claude Monet;3
+¿Cuál es el hueso más largo del cuerpo humano?;Húmero;Fémur;Radio;Tibia;Fíbula;2
+¿En qué país se encuentra la Torre Eiffel?;Italia;España;Francia;Alemania;Inglaterra;3
+¿Cuál es la montaña más alta del mundo?;Monte Everest;Monte Kilimanjaro;Monte Aconcagua;Monte McKinley;Monte Fuji;1
+¿Quién escribió "Cien años de soledad"?;Mario Vargas Llosa;Gabriel García Márquez;Jorge Luis Borges;Julio Cortázar;Carlos Fuentes;2
+¿Cuál es el ácido presente en los limones?;Ácido láctico;Ácido cítrico;Ácido fórmico;Ácido sulfúrico;Ácido acético;2
+¿En qué país se encuentra el Taj Mahal?;India;Tailandia;Bangladesh;Nepal;Sri Lanka;1
+¿Cuál es el símbolo químico del oro?;O;Ag;Au;Cu;Fe;3
+¿Quién fue el primer hombre en pisar la Luna?;Buzz Aldrin;Neil Armstrong;Yuri Gagarin;John Glenn;Alan Shepard;2
+¿Cuál es la lengua más hablada del mundo?;Español;Inglés;Mandarín;Hindi;Árabe;3
+¿Cuántos lados tiene un heptágono?;5;6;7;8;9;3
+¿En qué año cayó el Muro de Berlín?;1989;1991;1978;1990;1965;1
+¿Quién fue el primer presidente de los Estados Unidos?;Thomas Jefferson;George Washington;John Adams;Benjamin Franklin;James Madison;2
+¿Cuál es el metal más pesado?;Plata;Hierro;Oro;Plomo;Mercurio;4
+¿Quién pintó "Las Meninas"?;Leonardo da Vinci;Pablo Picasso;Diego Velázquez;Salvador Dalí;Claude Monet;3
+¿Cuál es el río más caudaloso del mundo?;Nilo;Amazonas;Yangtsé;Misisipi;Ganges;2
+¿Cuál es el órgano más grande del cuerpo humano?;Hígado;Cerebro;Piel;Pulmón;Corazón;3
+¿Cuál es el símbolo químico del hierro?;H;Ir;Fe;Hi;Io;3
+¿Quién escribió "La Odisea"?;Homero;Platón;Aristóteles;Sófocles;Eurípides;1
+¿Cuál es el país más grande del mundo?;Estados Unidos;China;Rusia;Canadá;Brasil;3
+¿Quién es el autor de la teoría de la relatividad?;Isaac Newton;Galileo Galilei;Albert Einstein;Nikola Tesla;Stephen Hawking;3
+¿En qué país se encuentra la Gran Muralla China?;China;Japón;Corea del Sur;Vietnam;Tailandia;1
+¿Cuál es el instrumento más grande de la orquesta?;Violín;Piano;Tuba;Contrabajo;Trompeta;4
+¿Quién es el autor de "El grito"?;Pablo Picasso;Edvard Munch;Salvador Dalí;Vincent Van Gogh;Claude Monet;2
+¿Cuántos continentes hay en el mundo?;4;5;6;7;8;5
+¿Cuál es la moneda de Japón?;Yen;Dólar;Euro;Libra;Peso;1
+¿En qué país se encuentra la Acrópolis?;Italia;Grecia;Egipto;Turquía;España;
+¿Quién es el autor de "1984"?;Aldous Huxley;George Orwell;Ray Bradbury;H.G. Wells;J.R.R. Tolkien;2
+¿Cuál es el océano más pequeño?;Océano Índico;Océano Atlántico;Océano Pacífico;Océano Antártico;Océano Ártico;4
+¿Cuál es la capital de Canadá?;Vancouver;Toronto;Ottawa;Montreal;Quebec;3
+¿En qué año se firmó la Declaración de Independencia de los Estados Unidos?;1776;1789;1804;1812;1765;1
+¿Cuál es el símbolo químico del carbono?;C;Co;Ca;Cu;Cr;1
+¿Quién escribió "La metamorfosis"?;Friedrich Nietzsche;Franz Kafka;Sigmund Freud;Thomas Mann;Hermann Hesse;2
+¿Cuál es el ave más grande del mundo?;Águila;Cóndor;Buitre;Avestruz;Pingüino;4
+¿Cuál es el metal más maleable?;Hierro;Oro;Plata;Cobre;Aluminio;2
+¿Quién fue el primer emperador romano?;Julio César;Augusto;Nerón;Cicerón;Trajano;2
+¿Cuál es la bebida más consumida del mundo?;Té;Café;Refresco;Agua;Vino;4
+¿Quién es el autor de "La Ilíada"?;Homero;Sófocles;Platón;Aristóteles;Eurípides;1
+¿Cuál es el símbolo químico del calcio?;Co;Cl;Ca;Cu;Cr;3
+¿En qué país se encuentra la Estatua de la Libertad?;Inglaterra;Francia;Italia;Estados Unidos;España;4
+¿Cuál es el hueso más pequeño del cuerpo humano?;Falange;Estribo;Fémur;Húmero;Radio;2
+¿Quién escribió "La divina comedia"?;Dante Alighieri;Petrarca;Boccaccio;Maquiavelo;Galileo;1
+¿Cuál es el país con más islas en el mundo?;Filipinas;Indonesia;Japón;Grecia;Fiyi;2
+¿Cuál es el metal más abundante en la Tierra?;Hierro;Oro;Plata;Cobre;Aluminio;4
+¿Quién pintó "El grito"?;Leonardo da Vinci;Pablo Picasso;Edvard Munch;Salvador Dalí;Claude Monet;3
+¿Cuál es el país con forma de bota?;México;Italia;España;Francia;Brasil;2
+¿En qué año se fundó la ONU?;1945;1950;1930;1960;1975;1
+¿Cuál es el océano menos profundo?;Océano Índico;Océano Atlántico;Océano Pacífico;Océano Antártico;Océano Ártico;5
+¿Quién fue el primer presidente de México?;Benito Juárez;Miguel Hidalgo;Porfirio Díaz;Emiliano Zapata;Venustiano Carranza;1
+¿Cuál es el país más pequeño del mundo?;Vaticano;Mónaco;San Marino;Liechtenstein;Maldivas;1
+¿Quién es el autor de "Moby Dick"?;Mark Twain;Herman Melville;Emily Dickinson;Nathaniel Hawthorne;Edgar Allan Poe;2
+¿Cuál es el animal más veloz?;Leopardo;Guepardo;Tigre;León;Lobo;2
+¿Cuál es la moneda de México?;Peso;Dólar;Euro;Yen;Libra;1
+¿Quién pintó "La última cena"?;Pablo Picasso;Vincent Van Gogh;Leonardo da Vinci;Salvador Dalí;Claude Monet;3
+¿Cuál es el planeta más cercano al sol?;Marte;Júpiter;Venus;Mercurio;Plutón;4
+¿Cuál es el hueso más fuerte del cuerpo humano?;Fémur;Cráneo;Húmero;Tibia;Fíbula;1
+¿En qué ciudad se encuentra la Torre Inclinada?;Barcelona;Roma;Pisa;Madrid;Atenas;3
+¿Cuál es el océano más cálido?;Océano Índico;Océano Atlántico;Océano Pacífico;Océano Antártico;Océano Ártico;1
+¿Quién escribió "El retrato de Dorian Gray"?;Oscar Wilde;Charles Dickens;Jane Austen;Virginia Woolf;Emily Brontë;1
+¿En qué año se descubrió América?;1492;1500;1450;1525;1550;1
+¿Cuál es el símbolo químico del sodio?;S;So;Se;Na;Ni;4
+¿Quién fue el primer astronauta en orbitar la Tierra?;Neil Armstrong;Yuri Gagarin;Buzz Aldrin;Alan Shepard;John Glenn;2
+¿Cuál es el país más joven del mundo?;Sudán del Sur;Kosovo;Timor Oriental;Montenegro;Serbia;1
+¿Quién es el autor de "La guerra y la paz"?;Fiodor Dostoievski;León Tolstói;Antón Chéjov;Iván Turguéniev;Alejandro Dumas;2
+¿En qué país se encuentra el canal de Suez?;Egipto;India;Grecia;Italia;Turquía;1
+¿Quién inventó el teléfono?;Thomas Edison;Nikola Tesla;Graham Bell;Marie Curie;Alexander Fleming;3
+¿Cuál es el órgano más pesado del cuerpo humano?;Hígado;Cerebro;Piel;Pulmón;Corazón;1
+¿Quién es el autor de "El principito"?;Julio Cortázar;Gabriel García Márquez;Antoine de Saint-Exupéry;Jorge Luis Borges;Mario Vargas Llosa;3
+¿En qué país se encuentra el Kremlin?;Rusia;Francia;Italia;España;China;1
+¿Quién fue el primer presidente de Argentina?;Juan Domingo Perón;Mauricio Macri;Carlos Menem;Néstor Kirchner;Bartolomé Mitre;5
+¿Cuál es el hueso más corto del cuerpo humano?;Falange;Estribo;Fémur;Húmero;Radio;2
+¿Cuál es el país con más volcanes en el mundo?;Estados Unidos;Indonesia;Chile;Japón;Rusia;2
+¿Quién fue el primer emperador de China?;Qin Shi Huang;Sun Yat-sen;Mao Zedong;Deng Xiaoping;Xi Jinping;1
+¿En qué país se encuentra el Kilimanjaro?;Kenia;Sudáfrica;Etiopía;Tanzania;Uganda;4
+¿Cuál es el símbolo químico del mercurio?;H;Ir;Fe;Hg;Io;4
+¿Quién escribió "El amor en los tiempos del cólera"?;Mario Vargas Llosa;Gabriel García Márquez;Jorge Luis Borges;Julio Cortázar;Carlos Fuentes;2
+¿Cuáles el metal más caro?;Plata;Hierro;Oro;Plomo;Mercurio;3
+¿Quién es el autor de "El lobo estepario"?;Friedrich Nietzsche;Franz Kafka;Hermann Hesse;Thomas Mann;Sigmund Freud;3
+¿Cuál es el país con más especies de animales en el mundo?;Australia;Brasil;China;India;Estados Unidos;1
+¿Quién pintó "El nacimiento de Venus"?;Leonardo da Vinci;Pablo Picasso;Sandro Botticelli;Salvador Dalí;Claude Monet;3
+¿Cuál es el país más alto del mundo?;Bolivia;Nepal;Suiza;Perú;Tíbet;2
+¿En qué país se encuentra el volcán Vesuvio?;Italia;Grecia;España;Japón;Chile;1
+¿Quién fue el primer rey de España?;Felipe II;Fernando el Católico;Carlos I;Juan Carlos I;Alfonso XIII;2
+¿Cuál es el símbolo químico del platino?;Pt;Pl;Pn;Po;Pr;1
+¿Quién escribió "La casa de los espíritus"?;Mario Vargas Llosa;Gabriel García Márquez;Jorge Luis Borges;Isabel Allende;Carlos Fuentes;4
+¿Cuál es el metal más ligero?;Plata;Hierro;Oro;Aluminio;Cobre;4
+¿Quién fue el primer presidente de Rusia?;Vladímir Putin;Boris Yeltsin;Mijaíl Gorbachov;Dmitri Medvédev;Leonid Brézhn
+¿Cuál es la capital de Irlanda?;Glasgow;Londres;Dublín;Belfast;Cardiff;3
+¿Quién escribió "La Odisea"?;Homero;Sófocles;Platón;Aristóteles;Eurípides;1
+¿En qué país se encuentra el monte Everest?;China;India;Tíbet;Nepal;Birmania;4
+¿Cuál es el río más largo de América del Sur?;Amazonas;Paraná;Orinoco;Magdalena;Uruguay;1
+¿Quién pintó "La noche estrellada"?;Leonardo da Vinci;Pablo Picasso;Vincent Van Gogh;Salvador Dalí;Claude Monet;3
+¿Cuál es el órgano más largo del cuerpo humano?;Hígado;Cerebro;Piel;Intestino delgado;Pulmón;4
+¿Cuál es la moneda de China?;Peso;Yen;Euro;Dólar;Yuan;5
+¿En qué país se encuentra el Coliseo?;Italia;Grecia;Egipto;Francia;España;1
+¿Cuál es el océano más ancho?;Océano Índico;Océano Atlántico;Océano Pacífico;Océano Antártico;Océano Ártico;3
+¿Quién escribió "Los viajes de Gulliver"?;Daniel Defoe;Jonathan Swift;William Shakespeare;Charles Dickens;Jane Austen;2
+¿Cuál es el hueso más corto del cuerpo humano?;Falange;Estribo;Fémur;Húmero;Radio;2
+¿En qué país se encuentra el monte Kilimanjaro?;Kenia;Sudáfrica;Etiopía;Tanzania;Uganda;4
+¿Quién fue el primer presidente de Colombia?;Simón Bolívar;Rafael Núñez;Juan Manuel Santos;Álvaro Uribe;Juan Valdez;2
+¿Cuál es el símbolo químico del plomo?;P;Po;Pt;Pb;Pr;4
+¿Quién inventó el pararrayos?;Thomas Edison;Nikola Tesla;Benjamin Franklin;Marie Curie;Alexander Fleming;3
+¿Cuál es la capital de Noruega?;Estocolmo;Oslo;Copenhague;Helsinki;Reikiavik;2
+¿Quién escribió "El retrato de Dorian Gray"?;Oscar Wilde;Charles Dickens;Jane Austen;Virginia Woolf;Emily Brontë;1
+¿En qué país se encuentra el valle de los Reyes?;Egipto;Grecia;Italia;Israel;Jordania;1
+¿Cuál es el animal más grande del mundo?;Elefante;Ballena azul;Rinoceronte;Hipopótamo;Jirafa;2
+¿Quién fue el primer presidente de Uruguay?;José Mujica;Tabaré Vázquez;Julio María Sanguinetti;Luis Alberto Lacalle;José Batlle y Ordóñez;5
+¿Cuál es el hueso más largo del cuerpo humano?;Húmero;Fémur;Radio;Tibia;Fíbula;2
+¿En qué año se fundó la Liga de las Naciones?;1920;1930;1915;1945;1900;1
+¿Quién pintó "La joven de la perla"?;Leonardo da Vinci;Pablo Picasso;Johannes Vermeer;Salvador Dalí;Claude Monet;3
+¿Cuál es el país con más especies de aves en el mundo?;Australia;Brasil;Colombia;China;Estados Unidos;3
+¿Cuál es el símbolo químico del carbono?;C;Co;Ca;Cu;Cr;1
+¿Quién escribió "Los Miserables"?;Gustave Flaubert;Victor Hugo;Stendhal;Émile Zola;Giovanni Boccaccio;2
+¿En qué país se encuentra la Torre de Pisa?;Italia;Francia;España;Grecia;Portugal;1
+¿Cuál es el océano más salado?;Océano Índico;Océano Atlántico;Océano Pacífico;Océano Antártico;Océano Ártico;3
+¿Quién es el autor de "El Aleph"?;Jorge Luis Borges;Gabriel García Márquez;Mario Vargas Llosa;Julio Cortázar;Carlos Fuentes;1
+¿En qué ciudad se encuentra el Museo del Louvre?;París;Londres;Madrid;Nueva York;Roma;1
+¿Cuál es el símbolo químico del cobre?;C;Co;Cu;Cb;Cr;3
+¿Quién inventó la imprenta?;Thomas Edison;Nikola Tesla;Johannes Gutenberg;Marie Curie;Alexander Fleming;3
+¿Cuál es la capital de Suiza?;Ginebra;Zúrich;Berna;Basilea;Lugano;3
+¿Quién escribió "El hobbit"?;J.R.R. Tolkien;C.S. Lewis;George R.R. Martin;J.K. Rowling;Stephen King;1
+¿En qué país se encuentra el canal de Panamá?;Colombia;Costa Rica;Panamá;Honduras;Nicaragua;3
+¿Cuál es el hueso más frágil del cuerpo humano?;Falange;Estribo;Fémur;Húmero;Radio;2
+¿En qué país se encuentra la Acrópolis de Atenas?;Italia;Grecia;Egipto;Turquía;España;2
+¿Quién fue el primer presidente de Brasil?;Jair Bolsonaro;Fernando Henrique Cardoso;Luiz Inácio Lula da Silva;Getúlio Vargas;Dilma Rousseff;4
+¿Cuál es el metal más resistente?;Hierro;Oro;Plata;Titanio;Aluminio;4
+¿Quién fue el primer presidente de Chile?
+¿En qué país se encuentra el Taj Mahal?;India;Tailandia;Bangladesh;Nepal;Sri Lanka;1
+¿Cuál es el río más caudaloso del mundo?;Nilo;Amazonas;Yangtsé;Misisipi;Ganges;2
+¿Quién es el autor de "Un mundo feliz"?;Aldous Huxley;George Orwell;Ray Bradbury;H.G. Wells;J.R.R. Tolkien;1
+¿Cuál es el símbolo químico del calcio?;Co;Cl;Ca;Cu;Cr;3
+¿En qué país se encuentra el monte Fuji?;Japón;China;Corea del Sur;Vietnam;Tailandia;1
+¿Quién fue el primer presidente de Perú?;Alan García;Alberto Fujimori;Ollanta Humala;Pedro Castillo;José de la Riva-Agüero;5
+¿Cuál es el país con más patrimonios de la humanidad?;México;Italia;China;España;Francia;2
+¿En qué país se encuentra Stonehenge?;Francia;Alemania;Italia;Inglaterra;Rusia;4
+¿Cuál es el hueso más pesado del cuerpo humano?;Húmero;Fémur;Radio;Tibia;Fíbula;2
+¿Quién escribió "El conde de Montecristo"?;Gustave Flaubert;Victor Hugo;Stendhal;Alexandre Dumas;Émile Zola;4
+¿Cuál es el país más grande del mundo en términos de área terrestre?;Canadá;Estados Unidos;China;Rusia;Brasil;4
+¿Cuál es el río más largo de Europa?;Danubio;Ródano;Volga;Támesis;Sena;3
+¿En qué país se encuentra el desierto del Sahara?;Sudáfrica;Egipto;Marruecos;Argelia;Nigeria;4
+¿Cuál es la capital de Suecia?;Estocolmo;Oslo;Copenhague;Helsinki;Reikiavik;1
+¿En qué continente se encuentra el Monte Kilimanjaro?;Europa;Asia;África;Oceanía;América;3
+¿Cuál es el punto más alto de América?;Monte Everest;Monte Aconcagua;Monte McKinley;Monte Kilimanjaro;Monte Elbrus;2
+¿En qué país se encuentra el Canal de Suez?;Egipto;India;Grecia;Italia;Turquía;1
+¿Cuál es la capital de Canadá?;Vancouver;Toronto;Ottawa;Montreal;Quebec;3
+¿En qué continente se encuentra el desierto del Gobi?;Europa;Asia;África;Oceanía;América;2
+¿Cuál es la montaña más alta del mundo?;Monte Everest;Monte Aconcagua;Monte McKinley;Monte Kilimanjaro;Monte Elbrus;1
+¿En qué país se encuentra el Mar Muerto?;Israel;Grecia;Italia;Jordania;Egipto;4
+¿Cuál es la capital de Nueva Zelanda?;Wellington;Sídney;Auckland;Christchurch;Queenstown;1
+¿En qué país se encuentra la Gran Muralla China?;China;India;Japón;Corea del Sur;Tailandia;1
+¿Cuál es la capital de Portugal?;Barcelona;Lisboa;Oporto;Madrid;Valencia;2
+¿En qué continente se encuentra el desierto de Atacama?;Europa;Asia;África;Oceanía;América;4
+¿Cuál es el punto más bajo de la Tierra?;Mar Muerto;Depresión de Bentley;Gran Fosa de las Marianas;Depresión de Afar;Lago Baikal;3
+¿En qué país se encuentra el volcán Kilimanjaro?;Kenia;Tanzania;Etiopía;Uganda;Ruanda;2
+¿Cuál es la capital de Hungría?;Viena;Budapest;Praga;Bratislava;Varsovia;2
+¿En qué continente se encuentra la Cordillera de los Andes?;Europa;Asia;África;Oceanía;América;5
+¿Cuál es el país con mayor cantidad de islas en el mundo?;Suecia;Filipinas;Indonesia;Grecia;Japón;3
+¿En qué país se encuentra el volcán Popocatépetl?;Argentina;Colombia;México;Guatemala;Chile;3
+¿Cuál es la capital de Grecia?;Atenas;Roma;Madrid;Barcelona;Lisboa;1
+¿En qué continente se encuentra el río Nilo?;Europa;Asia;África;Oceanía;América;3
+¿Cuál es el país con la mayor longitud de costa en el mundo?;Canadá;Rusia;Estados Unidos;Brasil;Australia;2
+¿En qué país se encuentra la selva del Amazonas?;Brasil;Colombia;Perú;Venezuela;Ecuador;1
+¿Cuál es la capital de Turquía?;Estambul;Ankara;Esmirna;Bursa;Antalya;2
+¿En qué continente se encuentra la Gran Barrera de Coral?;Europa;Asia;África;Oceanía;América;4
+¿Cuál es el país con mayor cantidad de lagos en el mundo?;Rusia;Canadá;Estados Unidos;China;India;2
+¿En qué país se encuentra el volcán Cotopaxi?;Argentina;Colombia;Ecuador;Perú;Bolivia;3
+¿Cuál es la capital de Marruecos?;Casablanca;Marrakech;Rabat;Tánger;Fez;3
+¿En qué continente se encuentra el río Misisipi?;Europa;Asia;África;Oceanía;América;5
+¿Cuál es el país más poblado del mundo?;India;Estados Unidos;China;Rusia;Indonesia;3
+¿En qué país se encuentra el Monte Fuji?;China;Japón;Corea del Sur;Vietnam;Tailandia;2
+¿Cuál es la capital de Islandia?;Estocolmo;Oslo;Reikiavik;Copenhague;Helsinki;3
+¿En qué continente se encuentra el río Danubio?;Europa;Asia;África;Oceanía;América;1
+¿Cuál es el país con la mayor cantidad de fronteras en el mundo?;Rusia;Canadá;China;Brasil;Estados Unidos;1
+¿En qué país se encuentra la selva de Borneo?;Indonesia;Filipinas;Tailandia;Malasia;Singapur;4
+¿Cuál es la capital de Venezuela?;Bogotá;Caracas;Buenos Aires;Quito;Lima;2
+¿En qué continente se encuentra el río Yangtsé?;Europa;Asia;África;Oceanía;América;2
+¿Cuál es el país con mayor cantidad de volcanes en el mundo?;Japón;Chile;Indonesia;Italia;México;3
+¿En qué país se encuentra el volcán Vesubio?;Italia;Grecia;España;Japón;Chile;1
+¿Cuál es la capital de Polonia?;Praga;Varsovia;Budapest;Berlín;Kiev;2
+¿En qué continente se encuentra el río Congo?;Europa;Asia;África;Oceanía;América;3
+¿Cuál es el país con mayor cantidad de desiertos en el mundo?;Arabia Saudita;Australia;Estados Unidos;China;Argentina;2
+¿En qué país se encuentra el volcán Cotopaxi?;Argentina;Colombia;Ecuador;Perú;Bolivia;3
+¿Cuál es la capital de Nepal?;Kabul;Nueva Delhi;Katmandú;Dhaka;Islamabad;3
+¿En qué continente se encuentra el río Nilo?;Europa;Asia;África;Oceanía;América;3
+¿Cuál es el país con mayor cantidad de lagos en el mundo?;Rusia;Canadá;Estados Unidos;China;India;2
+¿En qué país se encuentra el volcán Stromboli?;Italia;Grecia;España;Japón;Chile;1
+¿Cuál es la capital de Suiza?;Ginebra;Zúrich;Berna;Basilea;Lugano;3
+¿Cuál es la unidad de medida del tiempo en el Sistema Internacional?;Segundo;Minuto;Hora;Día;Año;1
+¿Qué tipo de energía se encuentra almacenada en los alimentos?;Energía térmica;Energía cinética;Energía química;Energía eléctrica;Energía nuclear;3
+¿Quién propuso la teoría de la relatividad?;Albert Einstein;Isaac Newton;Galileo Galilei;Nikola Tesla;Marie Curie;1
+¿Cuál es el proceso por el cual las plantas convierten la luz solar en energía química?;Fotosíntesis;Respiración;Fotolisis;Fototropismo;Fotofosforilación;1
+¿Qué es un átomo?;La partícula más pequeña de un elemento;La molécula más pequeña de un compuesto;Una partícula subatómica;Un conjunto de moléculas;Una partícula sin carga eléctrica;1
+¿Qué rama de la ciencia estudia los terremotos?;Sismología;Geología;Vulcanología;Paleontología;Meteorología;1
+¿Cuál es la fórmula química del agua?;HO;O2;CO2;H2O;H2;4
+¿Quién formuló la teoría de la evolución por selección natural?;Charles Darwin;Gregor Mendel;Albert Einstein;Isaac Newton;Marie Curie;1
+¿Cuál es la ley de la gravitación universal?;Ley de Newton;Ley de Kepler;Ley de Coulomb;Ley de Faraday;Ley de Gauss;1
+¿Cuál es la unidad básica de la herencia genética?;Gen;Cromosoma;Alelo;ADN;ARN;1
+¿Qué es un electrón?;Partícula subatómica con carga negativa;Partícula subatómica con carga positiva;Partícula sin carga eléctrica;Partícula nuclear;Unidad de luz;1
+¿Cuál es la fórmula química del dióxido de carbono?;CO;CO2;O2;H2O;CH4;2
+¿Cuál es la unidad de medida de la fuerza en el Sistema Internacional?;Newton;Kilogramo;Vatio;Joule;Pascal;1
+¿Qué nombre recibe el centro de la Tierra?;Núcleo;Manto;Corteza;Litosfera;Núcleo externo;1
+¿Qué rama de la ciencia estudia los fósiles?;Paleontología;Geología;Arqueología;Botánica;Zoología;1
+¿Cuál es la unidad básica de la electricidad?;Electrón;Protones;Amperio;Voltio;Coulomb;1
+¿Qué es la teoría del Big Bang?;Teoría sobre el origen del universo;Teoría sobre la formación de los planetas;Teoría sobre la evolución humana;Teoría sobre la formación de los continentes;Teoría sobre la extinción de los dinosaurios;1
+¿Quién descubrió la penicilina?;Alexander Fleming;Louis Pasteur;Marie Curie;Gregor Mendel;Edward Jenner;1
+¿Cuál es la velocidad de la luz en el vacío?;299,792 kilómetros por segundo;300,000 kilómetros por segundo;299,792 metros por segundo;300,000 metros por segundo;299,792 millas por segundo;1
+¿Qué son los asteroides?;Fragmentos rocosos y metálicos que orbitan el Sol;Planetas enanos;Satélites naturales;Estrellas fugaces;Cometas;1
+¿Cuál es la función principal de los pulmones en el cuerpo humano?;Intercambio gaseoso;Digestión;Circulación sanguínea;Control de la temperatura corporal;Producción de células sanguíneas;1
+¿Qué nombre recibe el tejido que recubre la superficie de los huesos en los humanos?;Periostio;Epidermis;Tejido conectivo;Médula ósea;Cartílago;1
+¿Cuál es la unidad de medida de la energía en el Sistema Internacional?;Joule;Vatio;Caloría;Kilogramo;Newton;1
+¿Qué es la fotosíntesis?;Proceso mediante el cual las plantas producen su alimento;Proceso de respiración de las plantas;Proceso de absorción de luz por las plantas;Proceso de reproducción de las plantas;Proceso de crecimiento de las plantas;1
+¿Quién propuso la teoría de la selección natural?;Charles Darwin;Gregor Mendel;Isaac Newton;Albert Einstein;Marie Curie;1
+¿Cuál es la unidad básica de la materia?;Átomo;Molécula;Partícula;Electrón;Neutrón;1
+¿Qué es la órbita de un planeta?;Trayectoria que sigue alrededor del Sol;Trayectoria que sigue alrededor de la Luna;Trayectoria que sigue alrededor de otro planeta;Trayectoria que sigue alrededor de un agujero negro;Trayectoria que sigue alrededor de una estrella;1
+¿Cuál es el nombre del científico conocido como el padre de la genética?;Gregor Mendel;Charles Darwin;Louis Pasteur;Albert Einstein;Marie Curie;1
+¿Qué es un genoma?;Conjunto completo de genes de un organismo;Conjunto de cromosomas de un organismo;Parte del ADN;Parte del ARN;Conjunto de alelos;1
+¿Cuál es la unidad básica de la electricidad estática?;Electrón;Protón;Neutrón;Fotón;Ión;1
+¿Quién formuló la teoría de la relatividad?;Albert Einstein;Isaac Newton;Galileo Galilei;Nikola Tesla;Marie Curie;1
+¿Cuál es el número de Avogadro?;6.022 x 10^23;6.022 x 10^22;6.022 x 10^24;6.022 x 10^25;6.022 x 10^26;1
+¿Cuál es el proceso mediante el cual las plantas convierten el dióxido de carbono en oxígeno?;Fotosíntesis;Respiración;Metabolismo;Transpiración;Ciclo de Krebs;1
+¿Qué son los neutrinos?;Partículas subatómicas sin carga eléctrica;Partículas subatómicas con carga positiva;Partículas subatómicas con carga negativa;Partículas subatómicas de luz;Partículas subatómicas de calor;1
+¿Cuál es la unidad de medida del volumen en el Sistema Internacional?;Metro cúbico;Litro;Centímetro cúbico;Kilogramo;Mililitro;1
+¿Qué es un cromosoma?;Estructura formada por ADN y proteínas que contiene genes;Estructura formada por proteínas;Partícula subatómica con carga positiva;Partícula subatómica con carga negativa;Estructura formada por ARN;1
+¿Cuál es la ley de la termodinámica que establece que la energía no puede ser creada ni destruida, solo transformada?;Primera ley de la termodinámica;Segunda ley de la termodinámica;Tercera ley de la termodinámica;Cuarta ley de la termodinámica;Quinta ley de la termodinámica;1
+¿Qué es un ácido en términos químicos?;Sustancia que libera iones de hidrógeno en una solución acuosa;Sustancia que libera iones de oxígeno en una solución acuosa;Sustancia que no libera iones en una solución acuosa;Sustancia que es neutral en una solución acuosa;Sustancia que es básica en una solución acuosa;1
+¿Cuál es el número de la constante de gravitación universal?;6.674 × 10^-11 m^3 kg^-1 s^-2;6.674 × 10^-12 m^3 kg^-1 s^-2;6.674 × 10^-10 m^3 kg^-1 s^-2;6.674 × 10^-13 m^3 kg^-1 s^-2;6.674 × 10^-14 m^3 kg^-1 s^-2;1
+¿Cuál es la fórmula química del cloruro de sodio?;NaCl;ClNa;CNa;NaC;CN;1
+¿Quién descubrió los rayos X?;Wilhelm Conrad Roentgen;Marie Curie;Albert Einstein;Isaac Newton;Galileo Galilei;1
+¿Cuál es el proceso por el cual los organismos vivos obtienen energía de los alimentos?;Respiración;Fotosíntesis;Digestión;Metabolismo;Transpiración;1
+¿Qué es un isótopo?;Átomos de un elemento con el mismo número de protones pero diferente número de neutrones;Átomos de diferentes elementos;Átomos con diferentes números de protones y neutrones;Átomos con la misma masa;Átomos con la misma carga;1
+¿Quién fue el inventor del telégrafo?;Samuel Morse;Alexander Graham Bell;Thomas Edison;Nikola Tesla;Marconi;1
+¿Qué es un isómero en química?;Moléculas con la misma fórmula química pero diferente estructura;Moléculas con la misma estructura pero diferente fórmula química;Moléculas con la misma masa;Moléculas con la misma carga;Moléculas con la misma función;1
+¿Cuál es la rama de la ciencia que estudia los fósiles?;Paleontología;Arqueología;Geología;Botánica;Zoología;1
+¿Qué es el ADN?;Ácido desoxirribonucleico, contiene la información genética;Ácido ribonucleico, controla la síntesis de proteínas;Ácido nucleico, regula la función celular;Ácido proteico, regula la división celular;Ácido polinucleico, controla la función metabólica;1
+¿Quién propuso la teoría del átomo?;John Dalton;Aristóteles;Epicuro;Demócrito;Pitágoras;1
+¿Qué es un compuesto químico?;Sustancia formada por la unión de dos o más elementos en proporciones definidas;Sustancia pura;Sustancia formada por la unión de dos elementos;Sustancia formada por un solo elemento;Sustancia formada por la unión de elementos en proporciones variables;1
+¿Qué es la energía nuclear?;Energía liberada durante la fisión o fusión de átomos;Energía generada por el Sol;Energía generada por el viento;Energía generada por la combustión;Energía generada por la fricción;1
+¿En qué año se firmó la Declaración de Independencia de los Estados Unidos?;1776;1789;1804;1812;1830;1
+¿Quién fue el primer emperador romano?;Julio César;Cicerón;Augusto;Tiberio;Nerón;3
+¿Qué evento marcó el inicio de la Revolución Francesa?;La Toma de la Bastilla;La coronación de Luis XVI;La Revuelta de los Campesinos;El discurso de Robespierre;El juicio de María Antonieta;1
+¿En qué año terminó la Segunda Guerra Mundial?;1945;1941;1943;1949;1951;1
+¿Quién fue el líder de la Revolución Rusa?;Vladimir Lenin;Nicolás II;León Trotsky;Josef Stalin;Alexander Kerensky;1
+¿Cuál fue el periodo de paz en la antigua Roma que duró aproximadamente 200 años?;Pax Romana;Pax Augusta;Pax Imperium;Pax Caesar;Pax Magna;1
+¿Quién fue el primer presidente de los Estados Unidos?;George Washington;Thomas Jefferson;John Adams;Alexander Hamilton;James Madison;1
+¿En qué año cayó el Muro de Berlín?;1989;1991;1985;1990;1993;1
+¿Qué evento llevó a la entrada de los Estados Unidos en la Primera Guerra Mundial?;El hundimiento del RMS Lusitania;El Tratado de Versalles;El ataque a Pearl Harbor;La invasión de Polonia;El bombardeo de Pearl Harbor;1
+¿Quién fue el líder de la Revolución Cubana?;Fidel Castro;Che Guevara;Raul Castro;Batista;Camilo Cienfuegos;1
+¿En qué año se produjo la Revolución Industrial?;Siglo XVIII;Siglo XIX;Siglo XVII;Siglo XVI;Siglo XX;1
+¿Quién fue el último emperador de Rusia?;Nicolás II;Alejandro II;Pedro el Grande;Iván IV;Alejandro I;1
+¿En qué año se fundó la Organización de las Naciones Unidas (ONU)?;1945;1949;1955;1950;1948;1
+¿Cuál fue la dinastía reinante durante la Edad de Oro de la cultura española?;Los Reyes Católicos;Los Borbones;Los Austrias;Los Visigodos;Los Omeyas;3
+¿En qué año se firmó la Declaración de los Derechos Humanos?;1948;1950;1955;1945;1951;1
+¿Qué evento provocó el inicio de la Primera Guerra Mundial?;El asesinato del Archiduque Francisco Fernando de Austria;La invasión de Polonia;El Tratado de Versalles;El hundimiento del Lusitania;El bombardeo de Pearl Harbor;1
+¿En qué año llegó Cristóbal Colón a América?;1492;1500;1510;1488;1525;1
+¿Quién fue el líder de la Revolución Mexicana?;Emiliano Zapata;Francisco Villa;Porfirio Díaz;Venustiano Carranza;Benito Juárez;1
+¿En qué año comenzó la Guerra Civil Española?;1936;1932;1940;1945;1950;1
+¿Quién fue el líder de la Revolución China?;Mao Zedong;Sun Yat-sen;Chiang Kai-shek;Deng Xiaoping;Zhou Enlai;1
+¿Qué evento marcó el final de la Guerra Fría?;La caída del Muro de Berlín;La Revolución Cubana;El colapso de la Unión Soviética;La invasión de Afganistán;El acuerdo de Yalta;3
+¿Cuál fue la batalla que marcó el final de Napoleón Bonaparte?;Batalla de Waterloo;Batalla de Trafalgar;Batalla de Austerlitz;Batalla de Borodino;Batalla de Leipzig;1
+¿Qué líder unificó a Alemania en 1871?;Otto von Bismarck;Federico II;Guillermo I;Carlos V;Federico el Grande;1
+¿En qué año se produjo la Revolución Iraní?;1979;1980;1965;1990;1985;1
+¿Quién fue el líder de la Revolución Haitiana?;Toussaint Louverture;Jean-Jacques Dessalines;Simon Bolivar;José Martí;Augusto Sandino;1
+¿Qué tratado marcó el fin de la Primera Guerra Mundial?;El Tratado de Versalles;El Tratado de París;El Tratado de Trianon;El Tratado de Brest-Litovsk;El Tratado de Saint-Germain;1
+¿Quién fue el líder de la Revolución bolchevique en Rusia?;Vladimir Lenin;Nicolás II;León Trotsky;Josef Stalin;Alexander Kerensky;1
+¿En qué año se produjo la caída del Imperio Romano de Occidente?;476 d.C.;400 d.C.;410 d.C.;450 d.C.;425 d.C.;1
+¿Quién fue el líder de la Revolución de Independencia de la India?;Mahatma Gandhi;Jawaharlal Nehru;Subhas Chandra Bose;Rajendra Prasad;Bhagat Singh;1
+¿En qué año se firmó la Declaración de Derechos de la Mujer y la Ciudadana durante la Revolución Francesa?;1791;1789;1800;1810;1750;1
+¿Quién fue el líder de la Revolución de Octubre en Rusia?;Vladimir Lenin;Nicolás II;León Trotsky;Josef Stalin;Alexander Kerensky;1
+¿En qué año comenzó la Segunda Guerra Mundial?;1939;1935;1941;1945;1940;1
+¿Qué evento provocó la Revolución Industrial?;El descubrimiento de la máquina de vapor;La Revolución Francesa;El descubrimiento de América;La Guerra Civil Inglesa;La Guerra de los 30 años;1
+¿En qué año se produjo la Revolución Mexicana?;1910;1915;1920;1925;1930;1
+¿Quién fue el líder de la Revolución Rusa de 1905?;León Trotsky;Vladimir Lenin;Nicolás II;Josef Stalin;Alexander Kerensky;1
+¿En qué año comenzó la Revolución Francesa?;1789;1790;1800;1810;1750;1
+¿Quién fue el líder de la Revolución Industrial?;Inglaterra;Francia;Alemania;Estados Unidos;Japón;1
+¿En qué año se firmó el Tratado de Versalles que puso fin a la Primera Guerra Mundial?;1919;1918;1920;1921;1922;1
+¿Quién fue el líder de la Revolución Rusa de 1917?;Vladimir Lenin;Nicolás II;León Trotsky;Josef Stalin;Alexander Kerensky;1
+¿En qué año comenzó la Guerra de Secesión en los Estados Unidos?;1861;1850;1870;1880;1890;1
+¿Quién fue el líder de la Revolución Cubana?;Fidel Castro;Che Guevara;Raul Castro;Batista;Camilo Cienfuegos;1
+¿En qué año se produjo la Revolución Francesa?;1789;1790;1800;1810;1750;1
+¿Quién fue el líder de la Revolución de Octubre en Rusia?;Vladimir Lenin;Nicolás II;León Trotsky;Josef Stalin;Alexander Kerensky;1
+¿En qué año comenzó la Segunda Guerra Mundial?;1939;1935;1941;1945;1940;1
+¿Qué evento provocó la Revolución Industrial?;El descubrimiento de la máquina de vapor;La Revolución Francesa;El descubrimiento de América;La Guerra Civil Inglesa;La Guerra de los 30 años;1
+¿En qué año se produjo la Revolución Mexicana?;1910;1915;1920;1925;1930;1
+¿Quién fue el líder de la Revolución Rusa de 1905?;León Trotsky;Vladimir Lenin;Nicolás II;Josef Stalin;Alexander Kerensky;1
+¿En qué año comenzó la Revolución Francesa?;1789;1790;1800;1810;1750;1
+¿Quién fue el líder de la Revolución Industrial?;Inglaterra;Francia;Alemania;Estados Unidos;Japón;1
+¿En qué año se firmó el Tratado de Versalles que puso fin a la Primera Guerra Mundial?;1919;1918;1920;1921;1922;1
+¿Quién dirigió la película "El Padrino"?;Francis Ford Coppola;Martin Scorsese;Steven Spielberg;Alfred Hitchcock;Quentin Tarantino;1
+¿En qué película aparece por primera vez el personaje de James Bond?;Dr. No;Goldfinger;Casino Royale;Desde Rusia con amor;Thunderball;1
+¿Qué película ganó el primer premio Oscar a la Mejor Película?;Alas;Lo que el viento se llevó;Casablanca;Titanic;El padrino;1
+¿Quién interpretó a Neo en "The Matrix"?;Keanu Reeves;Laurence Fishburne;Hugo Weaving;Carrie-Anne Moss;Joe Pantoliano;1
+¿Qué director fue responsable de "Tiburón"?;Steven Spielberg;Alfred Hitchcock;Martin Scorsese;James Cameron;Francis Ford Coppola;1
+¿En qué película aparece por primera vez Darth Vader?;Star Wars: Episodio IV - Una nueva esperanza;Star Wars: Episodio V - El Imperio Contraataca;Star Wars: Episodio VI - El retorno del Jedi;Star Wars: Episodio I - La amenaza fantasma;Star Wars: Episodio III - La venganza de los Sith;1
+¿Quién interpretó a Joker en "The Dark Knight"?;Heath Ledger;Jack Nicholson;Joaquin Phoenix;Jared Leto;Cesar Romero;1
+¿Qué película fue dirigida por Quentin Tarantino y se centra en un robo fallido?;Reservoir Dogs;Pulp Fiction;Kill Bill;Django sin cadenas;Los odiosos ocho;1
+¿Quién interpretó a Tony Stark / Iron Man en la saga del Universo Cinematográfico de Marvel?;Robert Downey Jr.;Chris Evans;Chris Hemsworth;Tom Hiddleston;Mark Ruffalo;1
+¿En qué película aparece el personaje de Clarice Starling?;El silencio de los corderos;Hannibal;Dragón rojo;Hannibal: el origen del mal;Hannibal: la caída del imperio romano;1
+¿Quién dirigió la trilogía de "El Señor de los Anillos"?;Peter Jackson;Steven Spielberg;James Cameron;George Lucas;Christopher Nolan;1
+¿En qué película se dice la famosa frase "Hasta la vista, baby"?;Terminator 2: El juicio final;Terminator;Terminator 3: La rebelión de las máquinas;Terminator Salvation;Terminator Génesis;1
+¿Qué actor interpretó a James Bond en "Casino Royale"?;Daniel Craig;Pierce Brosnan;Sean Connery;Roger Moore;Timothy Dalton;1
+¿En qué película de Disney aparece Simba como protagonista?;El Rey León;La Sirenita;Mulan;Pocahontas;La Bella y la Bestia;1
+¿Quién dirigió "El Resplandor"?;Stanley Kubrick;Alfred Hitchcock;Martin Scorsese;Francis Ford Coppola;David Fincher;1
+¿Cuál fue la primera película en color en ganar el premio Oscar a la Mejor Película?;Lo que el viento se llevó;Casablanca;Alas;Titanic;El padrino;1
+¿En qué película de ciencia ficción aparece el personaje de Ellen Ripley?;Alien, el octavo pasajero;Depredador;Blade Runner;2001: Una odisea del espacio;El quinto elemento;1
+¿Quién interpretó a Forrest Gump en la película del mismo nombre?;Tom Hanks;Leonardo DiCaprio;Brad Pitt;Matt Damon;Denzel Washington;1
+¿En qué película de Steven Spielberg un niño forma una amistad con un extraterrestre?;E.T. el extraterrestre;Encuentros cercanos del tercer tipo;Jurassic Park;El color púrpura;Inteligencia artificial;1
+¿Quién interpretó a Batman en "Batman Begins"?;Christian Bale;Michael Keaton;George Clooney;Val Kilmer;Adam West;1
+¿Qué película ganó el premio Oscar a la Mejor Película en 2019?;Green Book;Parásitos;1917;El irlandés;Joker;2
+¿En qué película interpretó Johnny Depp al Capitán Jack Sparrow?;Piratas del Caribe: La maldición de la Perla Negra;Piratas del Caribe: El cofre del hombre muerto;Piratas del Caribe: En el fin del mundo;Piratas del Caribe: En mareas misteriosas;Piratas del Caribe: La venganza de Salazar;1
+¿Quién dirigió la trilogía original de "Star Wars"?;George Lucas;Steven Spielberg;James Cameron;Peter Jackson;Christopher Nolan;1
+¿En qué película de ciencia ficción el personaje de Marty McFly viaja en el tiempo?;Volver al futuro;Matrix;Interestelar;Los viajeros del tiempo;Donnie Darko;1
+¿Quién fue el director de la película "El laberinto del fauno"?;Guillermo del Toro;Pedro Almodóvar;Alejandro González Iñárritu;Alfonso Cuarón;Luis Buñuel;1
+¿En qué película interpretó Sigourney Weaver a la teniente Ellen Ripley?;Alien, el octavo pasajero;Depredador;Blade Runner;2001: Una odisea del espacio;El quinto elemento;1
+¿Quién interpretó a Tony Montana en "Scarface"?;Al Pacino;Robert De Niro;Joe Pesci;Marlon Brando;John Travolta;1
+¿En qué película de ciencia ficción aparece el personaje de Sarah Connor?;Terminator;Depredador;Blade Runner;Matrix;El quinto elemento;1
+¿Quién fue el director de la película "Pulp Fiction"?;Quentin Tarantino;Martin Scorsese;Alfred Hitchcock;Francis Ford Coppola;Steven Spielberg;1
+¿Qué actor interpretó a James Bond en "GoldenEye"?;Pierce Brosnan;Sean Connery;Roger Moore;Timothy Dalton;Daniel Craig;1
+¿Quién interpretó a Harry Potter en la saga del mismo nombre?;Daniel Radcliffe;Rupert Grint;Emma Watson;Tom Felton;Matthew Lewis;1
+¿En qué película de ciencia ficción aparece el personaje de Ellen Ripley?;Alien, el octavo pasajero;Depredador;Blade Runner;2001: Una odisea del espacio;El quinto elemento;1
+¿Quién interpretó a Tony Montana en "Scarface"?;Al Pacino;Robert De Niro;Joe Pesci;Marlon Brando;John Travolta;1
+¿En qué película de ciencia ficción aparece el personaje de Sarah Connor?;Terminator;Depredador;Blade Runner;Matrix;El quinto elemento;1
+¿Quién fue el director de la película "Pulp Fiction"?;Quentin Tarantino;Martin Scorsese;Alfred Hitchcock;Francis Ford Coppola;Steven Spielberg;1
+¿Qué actor interpretó a James Bond en "GoldenEye"?;Pierce Brosnan;Sean Connery;Roger Moore;Timothy Dalton;Daniel Craig;1
+¿Quién interpretó a Harry Potter en la saga del mismo nombre?;Daniel Radcliffe;Rupert Grint;Emma Watson;Tom Felton;Matthew Lewis;1
+¿En qué película aparece el personaje de Indiana Jones por primera vez?;En busca del arca perdida;El templo maldito;La última cruzada;El reino de la calavera de cristal;El legado de los cinco reinos;1
+¿Quién fue el director de la película "El club de la pelea"?;David Fincher;Martin Scorsese;Quentin Tarantino;Francis Ford Coppola;Stanley Kubrick;1
+¿En qué película de Disney aparece la princesa Jasmine?;Aladdín;La Sirenita;La Bella Durmiente;Blancanieves y los siete enanitos;Cenicienta;1
+¿Quién interpretó a Katniss Everdeen en la saga de "Los juegos del hambre"?;Jennifer Lawrence;Emma Stone;Shailene Woodley;Dakota Fanning;Natalie Portman;1
+¿En qué película aparece por primera vez el personaje de Hannibal Lecter?;El silencio de los corderos;Hannibal;Manhunter;Dragón rojo;Hannibal: el origen del mal;3
+¿Quién fue el director de la película "Taxi Driver"?;Martin Scorsese;Francis Ford Coppola;Quentin Tarantino;Steven Spielberg;Alfred Hitchcock;1
+¿En qué película interpretó Joaquin Phoenix a un personaje que se convierte en el Joker?;Joker;El caballero oscuro;Escuadrón suicida;Batman: el caballero de la noche;Batman: el caballero de la noche asciende;1
+¿Quién interpretó a Michael Corleone en la saga de "El Padrino"?;Al Pacino;Robert De Niro;Marlon Brando;Joe Pesci;John Travolta;1
+¿En qué película aparece por primera vez el personaje de Jason Bourne?;El caso Bourne;El mito de Bourne;El legado de Bourne;Identidad desconocida;Supremacía Bourne;4
+¿Quién fue el director de la película "El resplandor"?;Stanley Kubrick;Alfred Hitchcock;Martin Scorsese;Francis Ford Coppola;David Fincher;1
+¿En qué película se dice la famosa frase "May the Force be with you"?;Star Wars: Episodio IV - Una nueva esperanza;Star Wars: Episodio V - El Imperio Contraataca;Star Wars: Episodio VI - El retorno del Jedi;Star Wars: Episodio I - La amenaza fantasma;Star Wars: Episodio III - La venganza de los Sith;1
+¿Quién interpretó a Tyler Durden en la película "El club de la pelea"?;Brad Pitt;Edward Norton;Jared Leto;Leonardo DiCaprio;Johnny Depp;1
+¿En qué película aparece por primera vez el personaje de Marty McFly?;Volver al futuro;Volver al futuro II;Volver al futuro III;Back to the Future: The Ride;Volver al futuro: el juego;1
+¿Quién es el personaje principal en la saga de videojuegos "The Legend of Zelda"?;Link;Zelda;Ganondorf;Navi;Impa;1
+¿En qué videojuego se introduce por primera vez a Sonic the Hedgehog?;Sonic the Hedgehog;Sonic the Hedgehog 2;Sonic CD;Sonic & Knuckles;Sonic Adventure;1
+¿Cuál es el título del primer videojuego de la serie "Final Fantasy"?;Final Fantasy;Final Fantasy II;Final Fantasy III;Final Fantasy IV;Final Fantasy V;1
+¿Quién es el creador de la serie de videojuegos "Metal Gear Solid"?;Hideo Kojima;Shigeru Miyamoto;Yuji Naka;Koji Igarashi;Keiji Inafune;1
+¿Cuál fue el primer videojuego de la franquicia "Pokémon"?;Pokémon Rojo y Azul;Pokémon Amarillo;Pokémon Verde;Pokémon Oro y Plata;Pokémon Diamante y Perla;1
+¿Cuál es el nombre del planeta principal en la serie de videojuegos "Mass Effect"?;Terra;Palaven;Tuchanka;Thessia;La Ciudadela;5
+¿En qué videojuego de la saga "Kingdom Hearts" Sora se encuentra con Jack Sparrow de "Piratas del Caribe"?;Kingdom Hearts II;Kingdom Hearts;Kingdom Hearts 3;Kingdom Hearts: Chain of Memories;Kingdom Hearts: Birth by Sleep;1
+¿En qué videojuego de "Resident Evil" los jugadores exploran la mansión de Spencer en Raccoon City?;Resident Evil;Resident Evil 2;Resident Evil 3: Nemesis;Resident Evil 4;Resident Evil 5;1
+¿En qué videojuego de la serie "Assassin's Creed" se encuentra el personaje principal en la Italia del Renacimiento?;Assassin's Creed II;Assassin's Creed;Assassin's Creed: Brotherhood;Assassin's Creed: Revelations;Assassin's Creed III;1
+¿Quién es el personaje principal en la serie de videojuegos "Uncharted"?;Nathan Drake;Sam Drake;Elena Fisher;Sully;Chloe Frazer;1
+¿En qué videojuego de la saga "The Elder Scrolls" los jugadores pueden visitar la región de Skyrim?;The Elder Scrolls V: Skyrim;The Elder Scrolls IV: Oblivion;The Elder Scrolls III: Morrowind;The Elder Scrolls Online;The Elder Scrolls II: Daggerfall;1
+¿Cuál es el nombre del mundo principal en el videojuego "World of Warcraft"?;Azeroth;Draenor;Kalimdor;Pandaria;Terrallende;1
+¿En qué juego de la serie "Super Mario" aparece por primera vez Yoshi?;Super Mario World;Super Mario Bros. 3;Super Mario 64;Super Mario Galaxy;Super Mario Sunshine;1
+¿Cuál es el nombre del personaje principal en la serie de videojuegos "Halo"?;Master Chief;Cortana;Arbiter;Sargento Johnson;Emile-A239;1
+¿En qué videojuego de "The Witcher" Geralt de Rivia busca a Ciri?;The Witcher 3: Wild Hunt;The Witcher;The Witcher 2: Assassins of Kings;The Witcher: Battle Arena;Thronebreaker: The Witcher Tales;1
+¿En qué videojuego de la franquicia "Fallout" los jugadores exploran la región de Boston?;Fallout 4;Fallout 3;Fallout: New Vegas;Fallout 2;Fallout;1
+¿Quién es el personaje principal en la serie de videojuegos "God of War"?;Kratos;Atreus;Zeus;Ares;Odín;1
+¿En qué videojuego de "Overwatch" los jugadores escoltan un cargamento de bienes a través de un mapa?;Watchpoint: Gibraltar;Route 66;Dorado;Numbani;Hollywood;1
+¿Cuál es el nombre del planeta en el que se desarrolla la mayoría de la historia de "Destiny"?;La Tierra;Titán;Io;Marte;La Luna;1
+¿En qué videojuego de la serie "BioShock" los jugadores exploran la ciudad submarina de Rapture?;BioShock;BioShock 2;BioShock Infinite;BioShock: The Collection;BioShock: Burial at Sea;1
+¿Quién es el personaje principal en la serie de videojuegos "Devil May Cry"?;Dante;Vergil;Nero;Lady;Trish;1
+¿En qué videojuego de la serie "Fable" los jugadores comienzan como un joven huérfano y pueden elegir entre ser bueno o malvado?;Fable;Fable II;Fable III;Fable: The Lost Chapters;Fable Heroes;1
+¿Cuál es el título del primer videojuego de la serie "Call of Duty"?;Call of Duty;Call of Duty 2;Call of Duty: Modern Warfare;Call of Duty: Black Ops;Call of Duty: World at War;1
+¿En qué videojuego de la serie "Half-Life" el protagonista, Gordon Freeman, se enfrenta a alienígenas en Black Mesa?;Half-Life;Half-Life 2;Half-Life: Opposing Force;Half-Life: Blue Shift;Half-Life: Alyx;1
+¿Cuál es el nombre del estudio de desarrollo detrás de la serie "The Sims"?;Maxis;Electronic Arts;Blizzard Entertainment;Ubisoft;Bethesda Game Studios;1
+¿En qué videojuego de la serie "Diablo" los jugadores buscan a Mephisto, Diablo y Baal?;Diablo II;Diablo;Diablo III;Diablo IV;Diablo: Hellfire;1
+¿Quién es el personaje principal en la serie de videojuegos "Persona"?;Joker;Morgana;Yusuke Kitagawa;Ryuji Sakamoto;Makoto Niijima;1
+¿En qué videojuego de la serie "Fire Emblem" se introdujo por primera vez la mecánica del tiempo?;Fire Emblem: Awakening;Fire Emblem: Fates;Fire Emblem: Three Houses;Fire Emblem: The Sacred Stones;Fire Emblem: Path of Radiance;1
+¿Cuál es el nombre del mundo donde ocurren los eventos de "The Legend of Spyro"?;El Mundo del Dragón;Avalar;El Reino de los Dragones;El Cielo;La Era del Dragón;1
+¿En qué videojuego de la franquicia "Assassin's Creed" se explora la Revolución Francesa?;Assassin's Creed Unity;Assassin's Creed Syndicate;Assassin's Creed III;Assassin's Creed: Rogue;Assassin's Creed Odyssey;1
+¿Quién es el personaje principal en la serie de videojuegos "Tomb Raider"?;Lara Croft;Nathan Drake;Indiana Jones;Sam Fisher;Solid Snake;1
+¿En qué videojuego de la serie "Gears of War" se enfrentan los COG a los Locust?;Gears of War;Gears of War 2;Gears of War 3;Gears of War: Judgment;Gears of War 4;1
+¿Cuál es el título del primer videojuego de la serie "Far Cry"?;Far Cry;Far Cry 2;Far Cry 3;Far Cry 4;Far Cry 5;1
+¿En qué videojuego de la serie "Borderlands" los jugadores exploran Pandora en busca de la Bóveda?;Borderlands;Borderlands 2;Borderlands: The Pre-Sequel;Tales from the Borderlands;Borderlands 3;1
+¿Quién es el personaje principal en la serie de videojuegos "Red Dead"?;John Marston;Arthur Morgan;Javier Escuella;Dutch van der Linde;Jack Marston;1
+¿En qué videojuego de la franquicia "The Elder Scrolls" se encuentra el jugador en la región de Morrowind?;The Elder Scrolls III: Morrowind;The Elder Scrolls IV: Oblivion;The Elder Scrolls V: Skyrim;The Elder Scrolls Online;The Elder Scrolls: Legends;1
+¿Cuál es el nombre del mundo de fantasía en la serie de videojuegos "The Witcher"?;Continente;Kaer Morhen;Temeria;Skellige;Velen;1
+¿En qué videojuego de la serie "Portal" el jugador se enfrenta a GLaDOS en las pruebas de la Aperture Science Enrichment Center?;Portal;Portal 2;Portal: Still Alive;The Lab;Bridge Constructor Portal;1
+¿Quién es el personaje principal en la serie de videojuegos "Bayonetta"?;Bayonetta;Jeanne;Luka;Rosa;Rodin;1
+¿En qué videojuego de la serie "Dark Souls" los jugadores exploran Lordran en busca de la salvación?;Dark Souls;Dark Souls II;Dark Souls III;Demon's Souls;Bloodborne;1
+¿Cuál es el título del primer videojuego de la serie "BioShock"?;BioShock;BioShock 2;BioShock Infinite;BioShock: The Collection;BioShock: Burial at Sea;1
+¿En qué videojuego de la franquicia "The Legend of Zelda" los jugadores viajan entre dos mundos paralelos?;The Legend of Zelda: A Link to the Past;The Legend of Zelda: Link's Awakening;The Legend of Zelda: Ocarina of Time;The Legend of Zelda: Majora's Mask;The Legend of Zelda: A Link Between Worlds;1
+¿Quién es el personaje principal en la serie de videojuegos "Doom"?;Doomguy;Doom Slayer;Commander Keen;B.J. Blazkowicz;Corvus;1
+¿En qué videojuego de la serie "Splinter Cell" los jugadores se enfrentan a la organización terrorista JBA?;Splinter Cell: Double Agent;Splinter Cell;Splinter Cell: Chaos Theory;Splinter Cell: Pandora Tomorrow;Splinter Cell: Blacklist;1
+¿Cuál es el nombre del personaje principal en la serie de videojuegos "Hitman"?;Agente 47;Diana Burnwood;Lucas Grey;Victoria;Arthur Edwards;1
+¿En qué videojuego de la franquicia "Mortal Kombat" se introduce por primera vez a Scorpion?;Mortal Kombat;Mortal Kombat II;Mortal Kombat 3;Ultimate Mortal Kombat 3;Mortal Kombat 4;1
+¿Quién es el personaje principal en la serie de videojuegos "Half-Life"?;Gordon Freeman;Alyx Vance;The G-Man;Barney Calhoun;Eli Vance;1
+¿En qué videojuego de la franquicia "Need for Speed" los jugadores pueden participar en carreras ilegales en una ciudad nocturna?;Need for Speed: Underground;Need for Speed: Most Wanted;Need for Speed: Carbon;Need for Speed: Hot Pursuit;Need for Speed: Payback;1
+¿Cuál es el título del primer videojuego de la serie "Silent Hill"?;Silent Hill;Silent Hill 2;Silent Hill 3;Silent Hill 4: The Room;Silent Hill: Homecoming;1
+¿En qué videojuego de la serie "Far Cry" los jugadores exploran una isla llena de piratas y mercenarios?;Far Cry 3;Far Cry 4;Far Cry 5;Far Cry: New Dawn;Far Cry Primal;1
+¿Qué álbum de The Beatles se considera su "Álbum Blanco"?;The Beatles;Sgt. Pepper's Lonely Hearts Club Band;Abbey Road;Revolver;Rubber Soul;1
+¿Quién es la voz principal de la banda Queen?;Freddie Mercury;Brian May;Roger Taylor;John Deacon;David Bowie;1
+¿Qué cantante es conocido como "El Rey del Pop"?;Michael Jackson;Elvis Presley;Prince;Stevie Wonder;Justin Timberlake;1
+¿Qué banda lanzó el álbum "The Dark Side of the Moon"?;Pink Floyd;Led Zeppelin;The Rolling Stones;The Who;The Doors;1
+¿Quién es conocido como el "Rey del Rock and Roll"?;Elvis Presley;Chuck Berry;Little Richard;Buddy Holly;Jerry Lee Lewis;1
+¿Qué cantante es famoso por su alter ego Ziggy Stardust?;David Bowie;Elton John;Bob Dylan;Mick Jagger;Freddie Mercury;1
+¿Qué banda está detrás del álbum "Back in Black"?;AC/DC;Guns N' Roses;Metallica;Nirvana;Led Zeppelin;1
+¿Cuál es el verdadero nombre de la cantante Lady Gaga?;Stefani Germanotta;Katy Perry;Rihanna;Taylor Swift;Ariana Grande;1
+¿Qué álbum lanzó Beyoncé en 2016 acompañado por un video visual?;Lemonade;B'Day;Dangerously in Love;I Am... Sasha Fierce;4
+¿Quién es el guitarrista principal de la banda Led Zeppelin?;Jimmy Page;Robert Plant;John Bonham;John Paul Jones;Dave Grohl;1
+¿Qué cantante es conocido por su apodo "The Boss"?;Bruce Springsteen;Bob Dylan;Billy Joel;Elton John;Tom Petty;1
+¿Qué cantante es conocido por su canción "Purple Rain"?;Prince;David Bowie;Michael Jackson;Stevie Wonder;George Michael;1
+¿Qué banda está detrás del álbum "Rumours"?;Fleetwood Mac;The Eagles;The Bee Gees;The Beach Boys;ABBA;1
+¿Quién es el líder de la banda U2?;Bono;The Edge;Adam Clayton;Larry Mullen Jr.;Chris Martin;1
+¿Qué cantante es conocido por su álbum "25"?;Adele;Taylor Swift;Rihanna;Ed Sheeran;Beyoncé;1
+¿Qué banda está detrás del álbum "Sgt. Pepper's Lonely Hearts Club Band"?;The Beatles;The Rolling Stones;The Beach Boys;The Doors;Led Zeppelin;1
+¿Quién es conocido por su canción "Billie Jean"?;Michael Jackson;Prince;Elvis Presley;Stevie Wonder;James Brown;1
+¿Qué banda lideró Freddie Mercury?;Queen;The Rolling Stones;The Who;AC/DC;Led Zeppelin;1
+¿Cuál es el nombre real de la cantante Pink?;Alecia Moore;Katy Perry;Rihanna;Beyoncé;Adele;1
+¿Quién es el cantante principal de la banda de rock Guns N' Roses?;Axl Rose;Slash;Izzy Stradlin;Duff McKagan;Steven Adler;1
+¿Qué banda está detrás del álbum "The Joshua Tree"?;U2;Coldplay;Red Hot Chili Peppers;Pearl Jam;Green Day;1
+¿Quién es el líder de la banda de rock Coldplay?;Chris Martin;Jonny Buckland;Guy Berryman;Will Champion;Bono;1
+¿Qué banda está detrás del álbum "Nevermind"?;Nirvana;Pearl Jam;Soundgarden;Alice in Chains;Red Hot Chili Peppers;1
+¿Quién es conocido como el "Rey del Reggae"?;Bob Marley;Peter Tosh;Jimmy Cliff;Toots Hibbert;Bunny Wailer;1
+¿Cuál es el nombre real de la cantante Rihanna?;Robyn Fenty;Alicia Keys;Beyoncé Knowles;Taylor Swift;Katy Perry;1
+¿Quién es conocido por su álbum "Graceland"?;Paul Simon;Art Garfunkel;Bruce Springsteen;Elton John;Billy Joel;1
+¿Qué banda lideró Mick Jagger?;The Rolling Stones;The Beatles;The Who;Led Zeppelin;The Doors;1
+¿Quién es conocido por su canción "Imagine"?;John Lennon;Bob Dylan;Elton John;David Bowie;Freddie Mercury;1
+¿Qué banda está detrás del álbum "Black Holes and Revelations"?;Muse;The Killers;Arctic Monkeys;Radiohead;Imagine Dragons;1
+¿Quién es el líder de la banda de rock The Doors?;Jim Morrison;Ray Manzarek;Robby Krieger;John Densmore;Freddie Mercury;1
+¿Qué cantante es conocido por su apodo "Queen of Pop"?;Madonna;Cher;Celine Dion;Whitney Houston;Mariah Carey;1
+¿Qué cantante es conocido por su canción "Eye of the Tiger"?;Survivor;Foreigner;Journey;Styx;Boston;1
+¿Quién es el líder de la banda The Police?;Sting;Andy Summers;Stewart Copeland;Henry Padovani;Carlos Alomar;1
+¿Qué banda está detrás del álbum "A Night at the Opera"?;Queen;The Rolling Stones;Led Zeppelin;The Who;The Beatles;1
+¿Quién es conocido por su canción "Thriller"?;Michael Jackson;Prince;Elvis Presley;Stevie Wonder;James Brown;1
+¿Qué banda lideró Ozzy Osbourne?;Black Sabbath;Led Zeppelin;Deep Purple;Iron Maiden;Judas Priest;1
+¿Cuál es el verdadero nombre del rapero Eminem?;Marshall Mathers III;Jay-Z;Kanye West;Lil Wayne;Snoop Dogg;1
+¿Quién es el líder de la banda de rock Aerosmith?;Steven Tyler;Joe Perry;Tom Hamilton;Brad Whitford;Joey Kramer;1
+¿Qué banda está detrás del álbum "Achtung Baby"?;U2;Coldplay;Red Hot Chili Peppers;Pearl Jam;Green Day;1
+¿Quién es conocido como el "Rey del Twist"?;Chubby Checker;Little Richard;Jerry Lee Lewis;Buddy Holly;Fats Domino;1
+¿Qué banda lideró Kurt Cobain?;Nirvana;Pearl Jam;Soundgarden;Alice in Chains;Red Hot Chili Peppers;1
+¿Cuál es el nombre real de la cantante Beyoncé?;Beyoncé Giselle Knowles-Carter;Alicia Keys;Rihanna;Robyn Fenty;Alecia Moore;1
+¿Quién es conocido por su álbum "Off the Wall"?;Michael Jackson;Prince;Elvis Presley;Stevie Wonder;James Brown;1
+¿Qué banda está detrás del álbum "Bad"?;Michael Jackson;Prince;Elvis Presley;Stevie Wonder;James Brown;1
+¿Quién es conocido por su canción "Like a Rolling Stone"?;Bob Dylan;John Lennon;Paul McCartney;David Bowie;Elton John;1
+¿Qué banda lideró Jimi Hendrix?;The Jimi Hendrix Experience;The Beatles;The Rolling Stones;The Who;The Doors;1
+¿Cuál es el nombre real de la cantante Lady Gaga?;Stefani Joanne Angelina Germanotta;Katy Perry;Rihanna;Taylor Swift;Ariana Grande;1
+¿Quién es el líder de la banda de rock Bon Jovi?;Jon Bon Jovi;Richie Sambora;David Bryan;Tico Torres;Axl Rose;1
+¿Qué banda está detrás del álbum "The Wall"?;Pink Floyd;Led Zeppelin;The Rolling Stones;The Who;The Doors;1
+¿Quién es conocido como el "Rey del Soul"?;Aretha Franklin;Ray Charles;James Brown;Stevie Wonder;Marvin Gaye;1
+¿Quién escribió "1984"?;George Orwell;Aldous Huxley;Ray Bradbury;H.G. Wells;J.R.R. Tolkien;1
+¿Cuál es el primer libro de la serie "Canción de hielo y fuego"?;Juego de Tronos;Choque de Reyes;Tormenta de Espadas;Festín de Cuervos;Danza de Dragones;1
+¿Quién escribió "Matar a un ruiseñor"?;Harper Lee;John Steinbeck;F. Scott Fitzgerald;Ernest Hemingway;William Faulkner;1
+¿Cuál es el primer libro de la saga "Harry Potter"?;Harry Potter y la piedra filosofal;Harry Potter y la cámara secreta;Harry Potter y el prisionero de Azkaban;Harry Potter y el cáliz de fuego;Harry Potter y la orden del fénix;1
+¿Quién escribió "El señor de los anillos"?;J.R.R. Tolkien;C.S. Lewis;George R.R. Martin;J.K. Rowling;Philip Pullman;1
+¿Cuál es el primer libro de la serie "Crepúsculo"?;Crepúsculo;Luna nueva;Eclipse;Amanecer;Sol de medianoche;1
+¿Quién escribió "Orgullo y prejuicio"?;Jane Austen;Charlotte Brontë;Emily Brontë;Virginia Woolf;Louisa May Alcott;1
+¿Cuál es el primer libro de la serie "Cazadores de sombras"?;Ciudad de hueso;Ciudad de ceniza;Ciudad de cristal;Ciudad de los ángeles caídos;Ciudad de las almas perdidas;1
+¿Quién escribió "El gran Gatsby"?;F. Scott Fitzgerald;Ernest Hemingway;John Steinbeck;Harper Lee;William Faulkner;1
+¿Cuál es el primer libro de la serie "Juego de tronos"?;Juego de Tronos;Choque de Reyes;Tormenta de Espadas;Festín de Cuervos;Danza de Dragones;1
+¿Quién escribió "Crónicas de Narnia"?;C.S. Lewis;J.R.R. Tolkien;Philip Pullman;George R.R. Martin;J.K. Rowling;1
+¿Cuál es el primer libro de la saga "El hobbit"?;El hobbit;El retorno del Rey;La comunidad del anillo;Las dos torres;El Silmarillion;1
+¿Quién escribió "Crimen y castigo"?;Fyodor Dostoevsky;Leo Tolstoy;Anton Chekhov;Ivan Turgenev;Nikolai Gogol;1
+¿Cuál es el primer libro de la serie "Los juegos del hambre"?;Los juegos del hambre;En llamas;Sinsajo;Ballad;Sinsajo;1
+¿Quién escribió "El retrato de Dorian Gray"?;Oscar Wilde;James Joyce;Virginia Woolf;D.H. Lawrence;Evelyn Waugh;1
+¿Cuál es el primer libro de la serie "Percy Jackson y los dioses del Olimpo"?;El ladrón del rayo;El mar de los monstruos;La maldición del titán;La batalla del laberinto;El último héroe del Olimpo;1
+¿Quién escribió "Las aventuras de Sherlock Holmes"?;Arthur Conan Doyle;Agatha Christie;Wilkie Collins;Raymond Chandler;Dorothy L. Sayers;1
+¿Cuál es el primer libro de la serie "Canción de Navidad"?;Canción de Navidad;Oliver Twist;David Copperfield;Grandes esperanzas;Bleak House;1
+¿Quién escribió "Moby Dick"?;Herman Melville;Mark Twain;Nathaniel Hawthorne;Edgar Allan Poe;Washington Irving;1
+¿Cuál es el primer libro de la serie "El código Da Vinci"?;El código Da Vinci;Ángeles y demonios;La conspiración;El símbolo perdido;Origen;1
+¿Quién escribió "Don Quijote de la Mancha"?;Miguel de Cervantes;Federico García Lorca;Gabriel García Márquez;Jorge Luis Borges;Pablo Neruda;1
+¿Cuál es el primer libro de la serie "Fundación"?;Fundación;Fundación e imperio;Segunda Fundación;Los límites de la Fundación;Preludio a la Fundación;1
+¿Quién escribió "La metamorfosis"?;Franz Kafka;Fyodor Dostoevsky;Leo Tolstoy;Anton Chekhov;Nikolai Gogol;1
+¿Cuál es el primer libro de la serie "El nombre del viento"?;El nombre del viento;El temor de un hombre sabio;Las puertas de piedra;La música del silencio;1
+¿Quién escribió "La odisea"?;Homero;Virgilio;Esquilo;Sófocles;Eurípides;1
+¿Cuál es el primer libro de la serie "El corredor del laberinto"?;El corredor del laberinto;Prueba de fuego;La cura mortal;El código de cruce;La orden de muerte;1
+¿Quién escribió "El guardián entre el centeno"?;J.D. Salinger;F. Scott Fitzgerald;Ernest Hemingway;John Steinbeck;Harper Lee;1
+¿Cuál es el primer libro de la serie "Los pilares de la Tierra"?;Los pilares de la Tierra;Un mundo sin fin;La caída de los gigantes;El invierno del mundo;El umbral de la eternidad;1
+¿Quién escribió "El laberinto de los espíritus"?;Carlos Ruiz Zafón;Gabriel García Márquez;Mario Vargas Llosa;Isabel Allende;Julio Cortázar;1
+¿Cuál es el primer libro de la serie "Cien años de soledad"?;Cien años de soledad;El coronel no tiene quien le escriba;La hojarasca;El otoño del patriarca;Crónica de una muerte anunciada;1
+¿Quién escribió "El perfume"?;Patrick Süskind;Hermann Hesse;Günter Grass;Thomas Mann;Heinrich Böll;1
+¿Cuál es el primer libro de la serie "Eragon"?;Eragon;Eldest;Brisingr;Legado;1
+¿Quién escribió "El amor en los tiempos del cólera"?;Gabriel García Márquez;Mario Vargas Llosa;Isabel Allende;Julio Cortázar;Carlos Fuentes;1
+¿Cuál es el primer libro de la serie "El cazador de sueños"?;El cazador de sueños;El palacio de la medianoche;El prisionero del cielo;Las luces de septiembre;1
+¿Quién escribió "La sombra del viento"?;Carlos Ruiz Zafón;Gabriel García Márquez;Mario Vargas Llosa;Isabel Allende;Julio Cortázar;1
+¿Cuál es el primer libro de la serie "Millennium"?;Los hombres que no amaban a las mujeres;La chica que soñaba con una cerilla y un bidón de gasolina;La reina en el palacio de las corrientes de aire;1
+¿Quién escribió "Los miserables"?;Victor Hugo;Gustave Flaubert;Charles Baudelaire;Émile Zola;Honoré de Balzac;1
+¿Cuál es el primer libro de la serie "Los juegos del hambre: En llamas"?;Los juegos del hambre: En llamas;Sinsajo;Ballad;1
+¿Quién escribió "Rayuela"?;Julio Cortázar;Gabriel García Márquez;Mario Vargas Llosa;Isabel Allende;Carlos Fuentes;1
+¿Cuál es el primer libro de la serie "La materia oscura"?;Luces del norte;La daga;El catalejo lacado;1
+¿Quién escribió "Pedro Páramo"?;Juan Rulfo;Octavio Paz;Carlos Fuentes;Gabriel García Márquez;Mario Vargas Llosa;1
+¿Cuál es el primer libro de la serie "El silencio de la ciudad blanca"?;El silencio de la ciudad blanca;Los ritos del agua;Los señores del tiempo;1
+¿Quién escribió "Cumbres Borrascosas"?;Emily Brontë;Charlotte Brontë;Anne Brontë;Jane Austen;Mary Shelley;1
+¿Cuál es el primer libro de la serie "La quinta ola"?;La quinta ola;El mar infinito;La última estrella;1
+¿Quién escribió "Frankenstein"?;Mary Shelley;Emily Brontë;Charlotte Brontë;Anne Brontë;Jane Austen;1
+¿Cuál es el primer libro de la serie "La torre oscura"?;El pistolero;La llegada de los tres;Las tierras baldías;1
+¿Quién escribió "La hoguera de las vanidades"?;Tom Wolfe;Norman Mailer;Philip Roth;John Updike;Saul Bellow;1
+¿Cuál es el primer libro de la serie "El ciclo de la luna roja"?;Los hijos de las tinieblas;La senda de la noche;El corazón de la luna;1
+¿Quién escribió "Alicia en el país de las maravillas"?;Lewis Carroll;Charles Dickens;Charlotte Brontë;Anne Brontë;Jane Austen;1
+¿Cuál es el primer libro de la serie "La espada de la verdad"?;Wizards First Rule;Stone of Tears;Blood of the Fold;1
+¿Quién pintó la obra "La noche estrellada"?;Vincent van Gogh;Leonardo da Vinci;Pablo Picasso;Claude Monet;Michelangelo Buonarroti;1
+¿Quién es conocido por la escultura "David"?;Michelangelo Buonarroti;Leonardo da Vinci;Donatello;Rafael;Sandro Botticelli;1
+¿Quién pintó "Las meninas"?;Diego Velázquez;Francisco de Goya;Pablo Picasso;El Greco;Salvador Dalí;1
+¿Qué artista es famoso por su obra "El nacimiento de Venus"?;Sandro Botticelli;Leonardo da Vinci;Rafael;Michelangelo Buonarroti;Caravaggio;1
+¿Quién es conocido por la pintura "El grito"?;Edvard Munch;Pablo Picasso;Vincent van Gogh;Claude Monet;Gustav Klimt;1
+¿Qué movimiento artístico está asociado con Salvador Dalí?;Surrealismo;Impresionismo;Cubismo;Expresionismo;Realismo;1
+¿Quién es conocido por pintar "Guernica"?;Pablo Picasso;Salvador Dalí;Vincent van Gogh;Claude Monet;Gustav Klimt;1
+¿Qué artista es famoso por sus pinturas de lirios acuáticos?;Claude Monet;Vincent van Gogh;Pablo Picasso;Salvador Dalí;Edgar Degas;1
+¿Quién pintó "La persistencia de la memoria"?;Salvador Dalí;Pablo Picasso;Vincent van Gogh;Claude Monet;Gustav Klimt;1
+¿Qué pintor es conocido por su estilo de "puntillismo"?;Georges Seurat;Paul Cézanne;Edgar Degas;Henri Matisse;Auguste Renoir;1
+¿Quién es conocido por sus esculturas "El Pensador" y "El Beso"?;Auguste Rodin;Michelangelo Buonarroti;Donatello;Antonio Canova;Gian Lorenzo Bernini;1
+¿Qué movimiento artístico está asociado con la obra "La habitación en Arlés"?;Postimpresionismo;Cubismo;Surrealismo;Expresionismo;Realismo;1
+¿Quién pintó "El jardín de las delicias"?;Hieronymus Bosch;Pieter Brueghel;Jan van Eyck;Peter Paul Rubens;Rembrandt van Rijn;1
+¿Qué artista es conocido por su obra "Noche estrellada sobre el Ródano"?;Vincent van Gogh;Leonardo da Vinci;Pablo Picasso;Claude Monet;Michelangelo Buonarroti;1
+¿Quién pintó la "Venus de Milo"?;Alejandro de Antioquía;Fidias;Praxíteles;Lisipo;Miron;1
+¿Qué artista es famoso por sus obras de "Dora Maar" y "Guernica"?;Pablo Picasso;Salvador Dalí;Vincent van Gogh;Claude Monet;Gustav Klimt;1
+¿Quién es conocido por la pintura "La libertad guiando al pueblo"?;Eugène Delacroix;Édouard Manet;Jean-Auguste-Dominique Ingres;Jean-François Millet;Paul Cézanne;1
+¿Qué escultor es conocido por su "Piedad" y "David"?;Michelangelo Buonarroti;Leonardo da Vinci;Donatello;Rafael;Sandro Botticelli;1
+¿Quién es conocido por su "Autorretrato con collar de espinas"?;Frida Kahlo;Diego Rivera;David Alfaro Siqueiros;José Clemente Orozco;Rufino Tamayo;1
+¿Qué artista es famoso por su cuadro "El grito"?;Edvard Munch;Pablo Picasso;Vincent van Gogh;Claude Monet;Gustav Klimt;1
+¿Quién pintó "El nacimiento de Venus"?;Sandro Botticelli;Leonardo da Vinci;Rafael;Michelangelo Buonarroti;Caravaggio;1
+¿Quién es conocido por su obra "El jardín de las delicias"?;Hieronymus Bosch;Pieter Brueghel;Jan van Eyck;Peter Paul Rubens;Rembrandt van Rijn;1
+¿Qué pintor es conocido por su estilo de "puntillismo"?;Georges Seurat;Paul Cézanne;Edgar Degas;Henri Matisse;Auguste Renoir;1
+¿Quién es conocido por sus esculturas "El Pensador" y "El Beso"?;Auguste Rodin;Michelangelo Buonarroti;Donatello;Antonio Canova;Gian Lorenzo Bernini;1
+¿Qué artista es conocido por su obra "Noche estrellada sobre el Ródano"?;Vincent van Gogh;Leonardo da Vinci;Pablo Picasso;Claude Monet;Michelangelo Buonarroti;1
+¿Quién pintó la "Venus de Milo"?;Alejandro de Antioquía;Fidias;Praxíteles;Lisipo;Miron;1
+¿Qué artista es famoso por sus obras de "Dora Maar" y "Guernica"?;Pablo Picasso;Salvador Dalí;Vincent van Gogh;Claude Monet;Gustav Klimt;1
+¿Quién es conocido por la pintura "La libertad guiando al pueblo"?;Eugène Delacroix;Édouard Manet;Jean-Auguste-Dominique Ingres;Jean-François Millet;Paul Cézanne;1
+¿Qué escultor es conocido por su "Piedad" y "David"?;Michelangelo Buonarroti;Leonardo da Vinci;Donatello;Rafael;Sandro Botticelli;1
+¿Quién es conocido por su "Autorretrato con collar de espinas"?;Frida Kahlo;Diego Rivera;David Alfaro Siqueiros;José Clemente Orozco;Rufino Tamayo;1
+¿Quién es conocido por sucuadro "El grito"?;Edvard Munch;Pablo Picasso;Vincent van Gogh;Claude Monet;Gustav Klimt;1
+¿Quién pintó "El nacimiento de Venus"?;Sandro Botticelli;Leonardo da Vinci;Rafael;Michelangelo Buonarroti;Caravaggio;1
+¿Quién es conocido por su "Autorretrato con collar de espinas"?;Frida Kahlo;Diego Rivera;David Alfaro Siqueiros;José Clemente Orozco;Rufino Tamayo;1
+¿Qué artista es famoso por su cuadro "El grito"?;Edvard Munch;Pablo Picasso;Vincent van Gogh;Claude Monet;Gustav Klimt;1
+¿Quién pintó "El nacimiento de Venus"?;Sandro Botticelli;Leonardo da Vinci;Rafael;Michelangelo Buonarroti;Caravaggio;1
+¿Quién es conocido por su "Autorretrato con collar de espinas"?;Frida Kahlo;Diego Rivera;David Alfaro Siqueiros;José Clemente Orozco;Rufino Tamayo;1
+¿Qué artista es famoso por su cuadro "El grito"?;Edvard Munch;Pablo Picasso;Vincent van Gogh;Claude Monet;Gustav Klimt;1
 ¿Quién pintó "El nacimiento de Venus"?;Sandro Botticelli;Leonardo da Vinci;Rafael;Michelangelo Buonarroti;Caravaggio;1
 ¿Quién es conocido por su "Autorretrato con collar de espinas"?;Frida Kahlo;Diego Rivera;David Alfaro Siqueiros;José Clemente Orozco;Rufino Tamayo;1
 ¿Qué artista es famoso por su cuadro "El grito"?;Edvard Munch;Pablo Picasso;Vincent van Gogh;Claude Monet;Gustav Klimt;1

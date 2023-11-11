@@ -65,7 +65,7 @@ def paso1():
 def paso2(dificultad):
 
   try:
-    preg=open(r'preguntas.txt','rt', encoding='UTF-8')
+    preg = open(r'preguntas.txt','rt', encoding='UTF-8')
 
     if dificultad == 'f':
       n_dificultas = 1
@@ -78,9 +78,12 @@ def paso2(dificultad):
 
     conjunto_preg = set()
 
+    print('llegue rey')
+
     while len(conjunto_preg) < n_dificultas:
+      print('llegue rey al paso 3 rey')
       preg.seek(0)
-      num_preg = random.randint(1,500)
+      num_preg = random.randint(1, 500)
 
       for num_txt, linea in enumerate(preg):
 
@@ -117,7 +120,7 @@ def paso3(preguntasLista):
 
     if respuesta.isdigit() == True:
       aux = int(respuesta) 
-    else: aux=0
+    else: aux = 0
 
     while aux < 1 or aux > len(registro_spliteado)-2 or respuesta.isdigit()==False:
       respuesta = input("La respuesta ingresada no es válida , por favor elija una de las opciones disponibles.")
@@ -205,18 +208,3 @@ jugar()
 paso5(participantes_sesion)
 paso6(participantes_sesion, 'historico.txt')
 
-# paso5([
-#   {'nick': 'uwu', 'dificultad': 'm','correctas': 0, 'tiempo': 10},
-#   {'nick': 'owo', 'dificultad': 'f','correctas': 1, 'tiempo': 21},
-#   {'nick': 'awa', 'dificultad': 'd','correctas': 3, 'tiempo': 13},
-#   {'nick': 'iwi', 'dificultad': 'f','correctas': 1, 'tiempo': 5},
-#   {'nick': 'ewe', 'dificultad': 'm','correctas': 2, 'tiempo': 30},
-#        ])
-
-# paso6([
-#   {'nick': 'uwu', 'dificultad': 'm','correctas': 0, 'tiempo': 10},
-#   {'nick': 'owo', 'dificultad': 'f','correctas': 1, 'tiempo': 21},
-#   {'nick': 'awa', 'dificultad': 'd','correctas': 3, 'tiempo': 13},
-#   {'nick': 'iwi', 'dificultad': 'f','correctas': 1, 'tiempo': 5},
-#   {'nick': 'ewe', 'dificultad': 'm','correctas': 2, 'tiempo': 30},
-#        ], 'historico.txt')

@@ -1,5 +1,0 @@
-qqq;d;1;2
-aaa;f;0;1
-ttt;d;0;34
-lll;f;1;24
-rrrr;m;2;39
