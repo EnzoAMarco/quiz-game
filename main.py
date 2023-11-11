@@ -15,7 +15,7 @@ def paso1():
   while len(nick1) < 3 or len(nick1) > 12:
     nick1 = input("ERROR, Ingrese un nick en el rango de caracteres (3 a 12 caracteres): ")
 
-  dificultad1 = input("Ingrese la dificultad (F= facil, M= medio, D= dificl): ").lower()
+  dificultad1 = input("Ingrese la dificultad (f = facil, m = medio, d = dificl): ").lower()
 
   while dificultad1 != "f" and dificultad1!= "m" and  dificultad1!= "d":
     dificultad1 = input("ERROR, seleccione una dificultad valida (F= facil, M= medio, D= dificl): ").lower()
@@ -65,27 +65,26 @@ def paso1():
 def paso2(dificultad):
 
   try:
-    preg=open(r'preguntas.txt','rt')
+    preg=open(r'preguntas.txt','rt', encoding='UTF-8')
 
+    if dificultad == 'f':
+      n_dificultas = 1
 
-    if dificultad=='f':
-      n_dificultas=1
+    elif dificultad == 'm':
+      n_dificultas = 2
 
-    if dificultad=='m':
-      n_dificultas=2
+    elif dificultad == 'd':
+      n_dificultas = 3
 
-    if dificultad=='d':
-      n_dificultas=3
-
-    conjunto_preg=set()
+    conjunto_preg = set()
 
     while len(conjunto_preg) < n_dificultas:
       preg.seek(0)
-      num_preg=random.randint(1,40)
+      num_preg = random.randint(1,500)
 
       for num_txt, linea in enumerate(preg):
 
-        if int(num_txt)==num_preg:
+        if int(num_txt) == num_preg:
           linea = linea.rstrip('\n')
           conjunto_preg.add(linea)
 
@@ -114,18 +113,25 @@ def paso3(preguntasLista):
     registro_spliteado = i.split(';')
     print(registro_spliteado[0], *enumerate(registro_spliteado[1:-1],1), sep='\n')
 
-    respuesta=input("Respuesta: ")
+    respuesta = input("Respuesta: ")
+
     if respuesta.isdigit() == True:
-      aux= int(respuesta) 
+      aux = int(respuesta) 
     else: aux=0
 
     while aux < 1 or aux > len(registro_spliteado)-2 or respuesta.isdigit()==False:
-      respuesta=input("La respuesta ingresada no es válida , por favor elija una de las opciones ")
+      respuesta = input("La respuesta ingresada no es válida , por favor elija una de las opciones disponibles.")
       if respuesta.isdigit() == True:
         aux= int(respuesta) 
       else: aux = 0
-    respuesta = aux
 
+    if respuesta == registro_spliteado[-1]:
+      print('Respuesta correcta')
+      data_puntuacion['correctas'] += 1
+    else:
+      print('Respuesta incorrecta, la respuesta correcta era la nro', int(registro_spliteado[-1]), registro_spliteado[int(registro_spliteado[-1])])
+      
+    
   contador_fin = perf_counter()
   data_puntuacion['tiempo'] = round(contador_fin-contador_inicio)
 
