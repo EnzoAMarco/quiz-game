@@ -164,20 +164,30 @@ def paso6(lista, direA1):
       print(md)
       pass
 
+def jugar():
 
+  participante_actual = paso1()
+  participantes_sesion.append(paso4(participante_actual, paso3(paso2(participante_actual['dificultad']))))
+
+  if input('quieres seguir jugando?(s/n): ') == "s":
+    jugar()
+
+  print('----------------------------------------------------------------', 'Resultados de la sesión:', sep='\n')
 # ------------------------PROGRAMA PRINCIPAL----------------------------------
 
 print('Bienvenido a te quiz game')
 participantes_sesion = []
 
-while True:
+jugar()
 
-  participante_actual = paso1()
-  participantes_sesion.append(paso4(participante_actual, paso3(paso2(participante_actual['dificultad']))))
+# while True:
 
-  if input('quieres seguir jugando?(s/n): ').lower() != 's':
-    print('----------------------------------------------------------------', 'Resultados de la sesión:', sep='\n')
-    break
+#   participante_actual = paso1()
+#   participantes_sesion.append(paso4(participante_actual, paso3(paso2(participante_actual['dificultad']))))
+
+#   if input('quieres seguir jugando?(s/n): ').lower() != 's':
+#     print('----------------------------------------------------------------', 'Resultados de la sesión:', sep='\n')
+#     break
 
 # print([str(i)[1:-1] for i in participantes_sesion])
 paso5(participantes_sesion)

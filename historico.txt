@@ -1,5 +1,2 @@
-abc;m;0;30
-kkj;d;1;8
-kkk;d;0;3
+qqq;d;1;2
 aaa;f;0;1
-fff;f;0;1
