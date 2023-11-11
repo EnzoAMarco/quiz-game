@@ -114,12 +114,18 @@ def paso3(preguntasLista):
     registro_spliteado = i.split(';')
     print(registro_spliteado[0], *enumerate(registro_spliteado[1:-1],1), sep='\n')
 
-    if input('Respuesta: ') == registro_spliteado[-1]:
-      print('Respuesta correcta')
-      data_puntuacion['correctas'] += 1
-    else:
-      print('Respuesta incorrecta, la respuesta correcta era la nro', int(registro_spliteado[-1]), registro_spliteado[int(registro_spliteado[-1])])
-      
+    respuesta=input("Respuesta: ")
+    if respuesta.isdigit() == True:
+      aux= int(respuesta) 
+    else: aux=0
+
+    while aux < 1 or aux > len(registro_spliteado)-2 or respuesta.isdigit()==False:
+      respuesta=input("La respuesta ingresada no es válida , por favor elija una de las opciones ")
+      if respuesta.isdigit() == True:
+        aux= int(respuesta) 
+      else: aux = 0
+    respuesta = aux
+
   contador_fin = perf_counter()
   data_puntuacion['tiempo'] = round(contador_fin-contador_inicio)
 
