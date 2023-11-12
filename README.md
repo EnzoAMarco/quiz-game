@@ -1,18 +1,19 @@
 # quiz-game
 --------------------------------------------------------------------------------------------------------------
-# 1_nick y dificultad = dic{'nombre': , 'dificultad':}
-# 2_selecciona un conjunto de preguntas en base a la dificultad = lista[preguntas]
-# 3_printea preguntas y por pregunta el usuario responde || dice correcto o si es falso pone la respuesta correcta
+# 1_ Se ingresa el nick y la dificultad validandolos
 
-# 4_se informa la puntuacion al usuario y opcion a volver a ejecutar y se guarda el valor de el usuario(tiempo, pto, etc...)
+# 2_ Se selecciona un conjunto de preguntas en base a la dificultad y devuelve un conjunto, haciendo que no haya preguntas repetidas.
 
-# 5_termina de ejecutar el programa y se informan todos los participantes de la sesion ordenados segun el puntaje obtenido
-# 6_estos se archivaran en un archivo participantes.txt
+# 3_ Con el retorno de la funcion anterior se divide pregunta por pregunta del conjunto con un split, printeando en pantalla las preguntas y en cada una el usuario responde, imprime  
+# correcto si acerto y suma un al contador de respuestas correctas, o incorrecta si no acertó y pone la respuesta correcta, al mismo tiempo se va a estar contando la cantidad de 
+# tiempo que se tardó en responder las preguntas.
 
-<!-- paso 2 if = m pero paso 1 es n dificultad -->
+# 4_ Se imprimi en pantalla la puntuacion final al usuario, la dificultad jugada y el tiempo tardado.
 
-# verificar el numero de respuestas del participante
-# limitar caracteres del nick name
-# q se lindo el output
-# agregar recursividad
+# 5_ Al terminarse de ejecutar el programa y se informan todos los participantes de la sesion ordenados segun el puntaje obtenido
 
+# 6_ Los participantes de la sesión se archivaran en un txt llamdo "historico.txt"
+
+# jugar_ Se pregunta si se quiere volver a jugar, validando que los input sean correctos.
+
+# El formato del archivo historico.txt es nick;dificultad;puntuacion;tiempo(en segundos)
