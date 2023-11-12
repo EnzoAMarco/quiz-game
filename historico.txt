@@ -4,3 +4,5 @@ ddd;d;2;3
 fffff;d;2;1
 dddd;d;3;5
 ddd;d;3;4
+vgfgg;f;0;1
+fff;f;1;1

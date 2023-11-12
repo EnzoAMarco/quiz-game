@@ -78,10 +78,8 @@ def paso2(dificultad):
 
     conjunto_preg = set()
 
-    print('llegue rey')
 
     while len(conjunto_preg) < n_dificultas:
-      print('llegue rey al paso 3 rey')
       preg.seek(0)
       num_preg = random.randint(1, 500)
 
@@ -185,9 +183,11 @@ def jugar():
   participante_actual = paso1()
   participantes_sesion.append(paso4(participante_actual, paso3(paso2(participante_actual['dificultad']))))
 
-  seguir_jugando=input('Quieres seguir jugando?(s = Si / n = No): ').lower()
+  seguir_jugando = input('Quieres seguir jugando?(s = Si / n = No): ').lower()
+
   while seguir_jugando != "s" and seguir_jugando != "n" :
-    seguir_jugando=input('Por favor elija una opcion válida, quieres seguir jugando?(s = Si / n = No): ').lower()
+    seguir_jugando = input('Por favor elija una opcion válida.\nQuieres seguir jugando?(s = Si / n = No): ').lower()
+
   if seguir_jugando == "s":
     jugar()
 
