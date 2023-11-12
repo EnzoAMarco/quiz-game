@@ -6,3 +6,13 @@ dddd;d;3;5
 ddd;d;3;4
 vgfgg;f;0;1
 fff;f;1;1
+ddd;f;1;0
+ddddd;f;1;1
+fff;f;0;1
+ffff;f;1;1
+fdfdf;f;1;2
+ddddd;f;1;1
+daadsd;f;0;2
+fsfdsd;f;1;1
+sfsaf;f;1;1
+fsdsd;f;0;0

@@ -127,11 +127,11 @@ def paso3(preguntasLista):
       else: aux = 0
 
     if respuesta == registro_spliteado[-1]:
-      print('Respuesta correcta')
+      print('✔️  Respuesta correcta ✔️')
       data_puntuacion['correctas'] += 1
     else:
-      print('Respuesta incorrecta, la respuesta correcta era la número', int(registro_spliteado[-1]), '-',registro_spliteado[int(registro_spliteado[-1])])
-
+      print('❌ Respuesta incorrecta❌ La respuesta correcta era la número', int(registro_spliteado[-1]), '-',registro_spliteado[int(registro_spliteado[-1])])
+      
     print('----------------------------------------------------------------')
       
     
@@ -183,15 +183,19 @@ def jugar():
   participante_actual = paso1()
   participantes_sesion.append(paso4(participante_actual, paso3(paso2(participante_actual['dificultad']))))
 
-  seguir_jugando = input('Quieres seguir jugando?(s = Si / n = No): ').lower()
+  print('----------------------------------------------------------------')
+  seguir_jugando=input('Quieres seguir jugando?(s = Si / n = No): ').lower()
+  print('----------------------------------------------------------------')
 
   while seguir_jugando != "s" and seguir_jugando != "n" :
-    seguir_jugando = input('Por favor elija una opcion válida.\nQuieres seguir jugando?(s = Si / n = No): ').lower()
+    seguir_jugando=input('Por favor elija una opcion válida, quieres seguir jugando?(s = Si / n = No): ').lower()
+    print('----------------------------------------------------------------')
 
   if seguir_jugando == "s":
     jugar()
+  else:
+    print('Resultados de la sesión:', sep='\n')
 
-  print('----------------------------------------------------------------', 'Resultados de la sesión:', sep='\n')
 # ------------------------PROGRAMA PRINCIPAL----------------------------------
 
 print('----------------------------------------------------------------')
@@ -204,4 +208,3 @@ jugar()
 
 paso5(participantes_sesion)
 paso6(participantes_sesion, 'historico.txt')
-
