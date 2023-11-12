@@ -1,14 +1,7 @@
 from time import perf_counter
 import random
 
-# def paso1():
-#   nick1=input("ingrese su nick: ")
-#   dificultad1=input("ingrese la dificultad (f=facil, m=medio, d=dificl): ").lower()
 
-#   while dificultad1 != "f" and dificultad1!= "m" and  dificultad1!= "d":
-#     dificultad1 = input("ERROR SELECCIONE UNA DIFICULTAD VALIDA (f para facil, n normal, d dificl): ").lower()
-
-#   return {"nick":nick1, "dificultad":dificultad1}
 def paso1():
   nick1 = input("Ingrese su nick (3 a 12 caracteres): ")
 
@@ -22,46 +15,6 @@ def paso1():
 
   return {"nick":nick1, "dificultad":dificultad1}
 
-# def paso2(dificultad):
-
-#   try:
-#     preg=open(r'preguntas.txt','rt')
-
-#     if dificultad=='f':
-#       n_dificultas=1
-
-#     if dificultad=='m':
-#       n_dificultas=2
-
-#     if dificultad=='d':
-#       n_dificultas=3
-
-#     conjunto_preg=set()
-
-#     while len(conjunto_preg) < n_dificultas:
-#       preg.seek(0)
-#       num_preg=random.randint(1,40)
-
-#       for num_txt, linea in enumerate(preg):
-
-#         if int(num_txt)==num_preg:
-#           linea = linea.rstrip('\n')
-#           conjunto_preg.add(linea)
-
-#     return conjunto_preg
-  
-#   except FileNotFoundError as md:
-#     print(md)
-
-#   except OSError as mensaje:
-#       print('No se pudo grabar el archivo:', mensaje)
-
-#   finally:
-#       try:
-#           preg.close()
-
-#       except NameError:
-#           pass
 def paso2(dificultad):
 
   try:
@@ -81,7 +34,7 @@ def paso2(dificultad):
 
     while len(conjunto_preg) < n_dificultas:
       preg.seek(0)
-      num_preg = random.randint(1, 500)
+      num_preg = random.randint(1, 540)
 
       for num_txt, linea in enumerate(preg):
 
@@ -104,7 +57,6 @@ def paso2(dificultad):
       except NameError:
           pass
       
-# toma una lista de preguntas como parametro y devuelve un dic con correctas = nro de preguntas correactas y tiempo = segundos totales que tomo responder todo
 def paso3(preguntasLista):
 
   data_puntuacion = {'correctas': 0, 'tiempo': 0}
@@ -130,7 +82,7 @@ def paso3(preguntasLista):
       print('✔️  Respuesta correcta ✔️')
       data_puntuacion['correctas'] += 1
     else:
-      print('❌ Respuesta incorrecta❌ La respuesta correcta era la número', int(registro_spliteado[-1]), '-',registro_spliteado[int(registro_spliteado[-1])])
+      print('❌ Respuesta incorrecta❌ La respuesta correcta era la número', registro_spliteado[-1], '-',registro_spliteado[int(registro_spliteado[-1])])
       
     print('----------------------------------------------------------------')
       
