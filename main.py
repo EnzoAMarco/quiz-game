@@ -2,7 +2,7 @@ from time import perf_counter
 import random
 
 
-def paso1():
+def obtener_datos():
   nick1 = input("Ingrese su nick (3 a 12 caracteres): ")
 
   while len(nick1) < 3 or len(nick1) > 12:
@@ -15,7 +15,7 @@ def paso1():
 
   return {"nick":nick1, "dificultad":dificultad1}
 
-def paso2(dificultad):
+def obtener_preguntas(dificultad):
 
   try:
     preg = open(r'preguntas.txt','rt', encoding='UTF-8')
@@ -57,7 +57,7 @@ def paso2(dificultad):
       except NameError:
           pass
       
-def paso3(preguntasLista):
+def actividad_juego(preguntasLista):
 
   data_puntuacion = {'correctas': 0, 'tiempo': 0}
   contador_inicio = perf_counter() 
@@ -94,22 +94,18 @@ def paso3(preguntasLista):
   
   return data_puntuacion
 
-def paso4(dic1,dic2):
+def resultado_turno(dic1, dic2):
   
   print(f"Feliciades {dic1['nick']}, jugando en la dificultad {dic1['dificultad']}, has obtenido {dic2['correctas']}pts en {dic2['tiempo']} segundos")
   return dic1|dic2
 
-def paso5(datos):
+def resultado_sesion(datos):
 
   print('nick'.ljust(13), 'dificultad'.ljust(13), 'correctas'.ljust(13), 'tiempo')
   print('\n'.join([' '.join(z.ljust(13) for z in map(str, fila.values())) for fila in sorted(datos , key=lambda x: x['correctas'], reverse=True)]))
 
-def paso6(lista, direA1):
+def guardar_resultados(lista, direA1):
 
-  # print([[z for z in map(str, fila.values())] for fila in lista])
-  # for i in [[z for z in map(str, fila.values())] for fila in lista]:
-  #   print(';'.join(i))
-  
   try:
     a1 = open(direA1,'at')
 
@@ -132,8 +128,8 @@ def paso6(lista, direA1):
 
 def jugar():
 
-  participante_actual = paso1()
-  participantes_sesion.append(paso4(participante_actual, paso3(paso2(participante_actual['dificultad']))))
+  participante_actual = obtener_datos()
+  participantes_sesion.append(resultado_turno(participante_actual, actividad_juego(obtener_preguntas(participante_actual['dificultad']))))
 
   print('----------------------------------------------------------------')
   seguir_jugando=input('Quieres seguir jugando?(s = Si / n = No): ').lower()
@@ -158,5 +154,6 @@ participantes_sesion = []
 
 jugar()
 
-paso5(participantes_sesion)
-paso6(participantes_sesion, 'historico.txt')
+print(participantes_sesion)
+resultado_sesion(participantes_sesion)
+guardar_resultados(participantes_sesion, 'historico.txt')
