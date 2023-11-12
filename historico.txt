@@ -1,0 +1,6 @@
+dddd;d;1;15
+ddd;f;0;4
+ddd;d;2;3
+fffff;d;2;1
+dddd;d;3;5
+ddd;d;3;4

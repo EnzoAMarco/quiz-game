@@ -15,10 +15,10 @@ def paso1():
   while len(nick1) < 3 or len(nick1) > 12:
     nick1 = input("ERROR, Ingrese un nick en el rango de caracteres (3 a 12 caracteres): ")
 
-  dificultad1 = input("Ingrese la dificultad (f = facil, m = medio, d = dificl): ").lower()
+  dificultad1 = input("Ingrese la dificultad (f = facil, m = medio, d = dificil): ").lower()
 
   while dificultad1 != "f" and dificultad1!= "m" and  dificultad1!= "d":
-    dificultad1 = input("ERROR, seleccione una dificultad valida (F= facil, M= medio, D= dificl): ").lower()
+    dificultad1 = input("ERROR, seleccione una dificultad valida (f = facil, m = medio, d = dificl): ").lower()
 
   return {"nick":nick1, "dificultad":dificultad1}
 
@@ -123,7 +123,7 @@ def paso3(preguntasLista):
     else: aux = 0
 
     while aux < 1 or aux > len(registro_spliteado)-2 or respuesta.isdigit()==False:
-      respuesta = input("La respuesta ingresada no es válida , por favor elija una de las opciones disponibles.")
+      respuesta = input("La respuesta ingresada no es válida, por favor elija una de las opciones disponibles.\nRespuesta: ")
       if respuesta.isdigit() == True:
         aux= int(respuesta) 
       else: aux = 0
@@ -132,20 +132,21 @@ def paso3(preguntasLista):
       print('Respuesta correcta')
       data_puntuacion['correctas'] += 1
     else:
-      print('Respuesta incorrecta, la respuesta correcta era la nro', int(registro_spliteado[-1]), registro_spliteado[int(registro_spliteado[-1])])
+      print('Respuesta incorrecta, la respuesta correcta era la número', int(registro_spliteado[-1]), '-',registro_spliteado[int(registro_spliteado[-1])])
+
+    print('----------------------------------------------------------------')
       
     
   contador_fin = perf_counter()
   data_puntuacion['tiempo'] = round(contador_fin-contador_inicio)
 
-  print('----------------------------------------------------------------')
   print('Tiempo tardado', round(contador_fin-contador_inicio), 'segundos')
   
   return data_puntuacion
 
 def paso4(dic1,dic2):
   
-  print(f"feliciades {dic1['nick']}, jugando en la dificultad {dic1['dificultad']}, has obtenido {dic2['correctas']}pts en {dic2['tiempo']} segundos")
+  print(f"Feliciades {dic1['nick']}, jugando en la dificultad {dic1['dificultad']}, has obtenido {dic2['correctas']}pts en {dic2['tiempo']} segundos")
   return dic1|dic2
 
 def paso5(datos):
@@ -184,27 +185,23 @@ def jugar():
   participante_actual = paso1()
   participantes_sesion.append(paso4(participante_actual, paso3(paso2(participante_actual['dificultad']))))
 
-  if input('quieres seguir jugando?(s/n): ') == "s":
+  seguir_jugando=input('Quieres seguir jugando?(s = Si / n = No): ').lower()
+  while seguir_jugando != "s" and seguir_jugando != "n" :
+    seguir_jugando=input('Por favor elija una opcion válida, quieres seguir jugando?(s = Si / n = No): ').lower()
+  if seguir_jugando == "s":
     jugar()
 
   print('----------------------------------------------------------------', 'Resultados de la sesión:', sep='\n')
 # ------------------------PROGRAMA PRINCIPAL----------------------------------
 
-print('Bienvenido a te quiz game')
+print('----------------------------------------------------------------')
+print('Bienvenido a The quiz game'.center(64))
+print('----------------------------------------------------------------')
+
 participantes_sesion = []
 
 jugar()
 
-# while True:
-
-#   participante_actual = paso1()
-#   participantes_sesion.append(paso4(participante_actual, paso3(paso2(participante_actual['dificultad']))))
-
-#   if input('quieres seguir jugando?(s/n): ').lower() != 's':
-#     print('----------------------------------------------------------------', 'Resultados de la sesión:', sep='\n')
-#     break
-
-# print([str(i)[1:-1] for i in participantes_sesion])
 paso5(participantes_sesion)
 paso6(participantes_sesion, 'historico.txt')
 
